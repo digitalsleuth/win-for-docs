@@ -4,4 +4,4 @@
 
 ## INSTALLATION
 
-* [Using the CLI](installation/using-the-cli.md)
+* [Using the Installer](installation/using-the-installer.md)
