@@ -1,6 +1,6 @@
 # Table of contents
 
-* [m.a.t. - A Linux mobile analysis toolkit](README.md)
+* [WIN-FOR - A Windows Forensics Toolkit and Environment Builder](README.md)
 
 ## INSTALLATION
 
