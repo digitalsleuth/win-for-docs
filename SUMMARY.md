@@ -22,3 +22,4 @@
 * [Terminals](the-tools/terminals.md)
 * [Utilities](the-tools/utilities.md)
 * [Windows Analysis](the-tools/windows-analysis.md)
+* [Requirements](the-tools/requirements.md)
