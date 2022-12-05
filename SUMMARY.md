@@ -8,7 +8,7 @@
 
 ## The Tools
 
-* [Acquisition](the-tools/acquisition.md)
+* [Acquisition and Analysis](the-tools/acquisition-and-analysis.md)
 * [Databases](the-tools/databases.md)
 * [Documents / Editors](the-tools/documents-editors.md)
 * [Email](the-tools/email.md)
