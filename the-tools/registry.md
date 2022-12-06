@@ -1,3 +1,7 @@
+---
+description: Analysis of Windows registry artifacts
+---
+
 # Registry
 
 ### Name: Registry Explorer

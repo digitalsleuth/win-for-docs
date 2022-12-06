@@ -1,3 +1,7 @@
+---
+description: Basic tools for byte-level analysis of data blobs
+---
+
 # Raw Parsers / Decoders
 
 ### Name: Bulk Extractor

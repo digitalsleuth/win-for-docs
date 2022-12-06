@@ -1,3 +1,7 @@
+---
+description: Decompile and deconstruct installers
+---
+
 # Installers
 
 ### Name: AutoIt Extractor

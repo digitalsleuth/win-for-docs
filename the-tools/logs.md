@@ -1,3 +1,7 @@
+---
+description: Event and Web log analysis
+---
+
 # Logs
 
 ### Name: EventFinder

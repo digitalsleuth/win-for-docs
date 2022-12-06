@@ -1,3 +1,7 @@
+---
+description: Applications to create, modify, disassemble, and analyze document files.
+---
+
 # Documents / Editors
 
 ### Name: ExifTool

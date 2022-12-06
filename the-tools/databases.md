@@ -1,3 +1,7 @@
+---
+description: Database browsers
+---
+
 # Databases
 
 ### Name: DB Browser for SQLite

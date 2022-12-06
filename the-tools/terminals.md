@@ -1,3 +1,7 @@
+---
+description: Use of Linux-emulated terminals on Windows
+---
+
 # Terminals
 
 ### Name: Cygwin
@@ -25,7 +29,7 @@ Description: Terminal Emulator\
 Author: Microsoft\
 License: MIT License (https://github.com/microsoft/terminal/blob/main/LICENSE)\
 Version: 1.11.3471.0\
-Notes:
+Notes: NOT CURRENTLY INSTALLED - PENDING UPDATES FROM MICROSOFT
 
 ### Name: WSL Setup
 
@@ -34,4 +38,4 @@ Description: Windows Subsystem for Linux setup\
 Author: Microsoft\
 License: EULA\
 Version: 0.0\
-Notes: NOT CURRENTLY INSTALLED - PENDING UPDATES FROM MICROSOFT
+Notes: Includes an Ubuntu 20.04 machine with SIFT and REMnux installed
