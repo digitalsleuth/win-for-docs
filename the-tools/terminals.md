@@ -4,7 +4,7 @@ description: Use of Linux-emulated terminals on Windows
 
 # Terminals
 
-### Name: Cygwin
+### Cygwin
 
 Website: https://cygwin.com\
 Description: Linux Terminal Emulator for Windows\
@@ -13,7 +13,7 @@ License: GNU General Public License (GPL) (https://cygwin.com/licensing.html)\
 Version: 3.3.6\
 Notes: Retcode is set to '2' for success because the Cygwin installer (even though on Windows) attempts to search for /etc/setup/setup.rc or /etc/setup/installed.db and fails with retcode 2. This causes Saltstack to read an ERROR and result: False, even though the pkg state returns 'install success'.
 
-### Name: MobaXterm
+### MobaXterm
 
 Website: https://mobaxterm.mobatek.net\
 Description: Enhanced Terminal for Windows\
@@ -22,7 +22,7 @@ License: https://mobaxterm.mobatek.net/license.html\
 Version: 22.0\
 Notes: Home Edition
 
-### Name: Windows Terminal
+### Windows Terminal
 
 Website: https://github.com/microsoft/terminal\
 Description: Terminal Emulator\
@@ -31,7 +31,7 @@ License: MIT License (https://github.com/microsoft/terminal/blob/main/LICENSE)\
 Version: 1.11.3471.0\
 Notes: NOT CURRENTLY INSTALLED - PENDING UPDATES FROM MICROSOFT
 
-### Name: WSL Setup
+### WSL Setup
 
 Website: https://microsoft.com\
 Description: Windows Subsystem for Linux setup\

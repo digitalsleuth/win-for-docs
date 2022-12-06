@@ -4,7 +4,7 @@ description: Database browsers
 
 # Databases
 
-### Name: DB Browser for SQLite
+### DB Browser for SQLite
 
 Website: https://sqlitebrowser.org\
 Description: SQLite Database Browser\
@@ -13,7 +13,7 @@ License: Mozilla Public License v2 (https://github.com/sqlitebrowser/sqlitebrows
 Version: 3.12.2\
 Notes:
 
-### Name: dbeaver
+### dbeaver
 
 Website: https://github.com/dbeaver/dbeaver\
 Description: SQL Database tool and client\
@@ -22,7 +22,7 @@ License: Apache License 2.0 (https://github.com/dbeaver/dbeaver/blob/devel/LICEN
 Version: 22.2.5\
 Notes:
 
-### Name: RazorSQL
+### RazorSQL
 
 Website: https://razorsql.com\
 Description: SQL Database analysis tool\
@@ -31,7 +31,7 @@ License: https://razorsql.com/license.txt\
 Version: 10.1.1\
 Notes:
 
-### Name: SQLiteStudio
+### SQLiteStudio
 
 Website: https://sqlitestudio.pl/\
 Description: SQLite Database browser, creator, editor\
@@ -40,7 +40,7 @@ License: GNU General Public License v3 (https://github.com/pawelsalawa/sqlitestu
 Version: 3.4.1\
 Notes:
 
-### Name: SysTools SQL MDF Viewer
+### SysTools SQL MDF Viewer
 
 Website: https://www.systoolsgroup.com\
 Description: SQL MDF analysis tool\

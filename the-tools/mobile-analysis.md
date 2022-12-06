@@ -4,7 +4,7 @@ description: Analysis of mobile devices and applications
 
 # Mobile Analysis
 
-### Name: ALEAPP
+### ALEAPP
 
 Website: https://github.com/abrignoni/aleapp\
 Description: Android Logs Events and Protobuf Parser\
@@ -13,7 +13,7 @@ License: MIT License (https://github.com/abrignoni/ALEAPP/blob/master/LICENSE)\
 Version: 3.1.1\
 Notes:
 
-### Name: Bytecode Viewer
+### Bytecode Viewer
 
 Website: https://github.com/konloch/bytecode-viewer\
 Description: Android APK reverse engineering suite\
@@ -22,7 +22,7 @@ License: GNU General Public License v3 (https://github.com/Konloch/bytecode-view
 Version: 2.11.2\
 Notes:
 
-### Name: dex2jar
+### dex2jar
 
 Website: https://github.com/pxb1988/dex2jar\
 Description: Android .dex and .class file analysis\
@@ -31,7 +31,7 @@ License: Apache License v2.0 (https://github.com/pxb1988/dex2jar/blob/2.x/LICENS
 Version: 2.1\
 Notes:
 
-### Name: ILEAPP
+### ILEAPP
 
 Website: https://github.com/abrignoni/ileapp\
 Description: iOS Logs Events and Plists Parser\
@@ -40,7 +40,7 @@ License: MIT License (https://github.com/abrignoni/iLEAPP/blob/master/LICENSE)\
 Version: 1.18.1\
 Notes:
 
-### Name: iphoneanalyzer (iPhone Analyzer)
+### iphoneanalyzer (iPhone Analyzer)
 
 Website: https://sourceforge.net/project/iphoneanalyzer/\
 Description: Analyze iPhone backups\
@@ -49,7 +49,7 @@ License: GNU General Public License v3 (https://sourceforge.net/directory/os:lin
 Version: 2.1.0\
 Notes:
 
-### Name: jd-gui
+### jd-gui
 
 Website: https://github.com/java-decompiler/jd-gui\
 Description: GUI-based Java Decompiler\
@@ -58,7 +58,7 @@ License: GNU General Public License v3 (https://github.com/java-decompiler/jd-gu
 Version: 1.6.6\
 Notes:
 
-### Name: VLEAPP
+### VLEAPP
 
 Website: https://github.com/abrignoni/vleapp\
 Description: Vehicle Logs Events and Properties Parser\

@@ -4,7 +4,16 @@ description: Network traffic analysis tools
 
 # Network
 
-### Name: Burp Suite Community Edition
+### Brim
+
+Website: https://www.brimdata.io/  \
+Description: Network Forensic GUI Tool using Zeek and Suricata  \
+Author: Brim Data  \
+License: GNU General Public License (GPL) (https://github.com/brimdata/brim/blob/main/LICENSE.txt)  \
+Version: 0.31.0  \
+Notes:
+
+### Burp Suite Community Edition
 
 Website: https://portswigger.net\
 Description: Packet Intercept and Analysis Tool\
@@ -13,7 +22,7 @@ License: https://portswigger.net/burp/tc-community\
 Version: v2022.11.2\
 Notes:
 
-### Name: Fakenet-NG
+### Fakenet-NG
 
 Website: https://github.com/mandiant/flare-fakenet-ng\
 Description: Next Generation Dynamic Network Analysis Tool\
@@ -22,7 +31,7 @@ License: Apache License 2.0 (https://github.com/mandiant/flare-fakenet-ng/blob/m
 Version: 1.4.12\
 Notes:
 
-### Name: NAFT - Network Appliance Forensic Toolkit
+### NAFT - Network Appliance Forensic Toolkit
 
 Website: https://github.com/digitalsleuth/naft\
 Description: Updated version of Didier Stevens Network Appliance memory dump analyzer\
@@ -31,7 +40,7 @@ License: MIT License (https://github.com/digitalsleuth/naft/blob/main/LICENSE.md
 Version: 1.0.0b1\
 Notes:
 
-### Name: PuTTY
+### PuTTY
 
 Website: https://www.chiark.greenend.org.uk/\~sgtatham/putty/\
 Description: Free SSH and Telnet Client\
@@ -40,7 +49,7 @@ License: https://tartarus.org/\~simon/putty-snapshots/htmldoc/AppendixD.html#lic
 Version: 0.78\
 Notes:
 
-### Name: Telerik Fiddler
+### Telerik Fiddler
 
 Website: https://www.telerik.com\
 Description: Web debugging proxy tool\
@@ -49,7 +58,7 @@ License:\
 Version: 5.0.20211.51073\
 Notes:
 
-### Name: WebPageSaver
+### WebPageSaver
 
 Website: https://magnetforensics.com\
 Description: Creates an HTML report containing a snapshot of each webpage at a specific point in time\
@@ -58,7 +67,7 @@ License: EULA\
 Version: 3.4.0\
 Notes:
 
-### Name: Wireshark
+### Wireshark
 
 Website: https://www.wireshark.org\
 Description: Network packet capture and analysis tool\

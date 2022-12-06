@@ -4,7 +4,7 @@ description: Analysis of Windows registry artifacts
 
 # Registry
 
-### Name: Registry Explorer
+### Registry Explorer
 
 Website: https://ericzimmerman.github.io\
 Description: Registry analysis tool (part of EZ Tools / Zimmerman Tools)\
@@ -13,7 +13,7 @@ License: MIT License (https://github.com/EricZimmerman/Issues/blob/master/LICENS
 Version: 2021-01-22\
 Notes:
 
-### Name: Registry Viewer
+### Registry Viewer
 
 Website: https://exterro.com  \
 Description: Windows Registry hive viewer  \
@@ -22,7 +22,7 @@ License: EULA  \
 Version: 2.0.0.7  \
 Notes: Installable, but not currently installed - no longer supported
 
-### Name: regripper
+### regripper
 
 Website: https://github.com/keydet89/RegRipper3.0\
 Description: Registry parsing toolsuite\
@@ -31,7 +31,7 @@ License: MIT License (https://github.com/keydet89/RegRipper3.0/blob/master/licen
 Version: 3.0\
 Notes: rr.exe
 
-### Name: regshot
+### regshot
 
 Website: https://sourceforge.net/projects/regshot/  \
 Description: Registry snapshot utility to compare snapshots  \

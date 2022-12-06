@@ -4,7 +4,7 @@ description: Decompile and deconstruct installers
 
 # Installers
 
-### Name: AutoIt Extractor
+### AutoIt Extractor
 
 Website: https://github.com/digitalsleuth/autoit-extractor\
 Description: AutoIt installer extractor\
@@ -13,7 +13,7 @@ License: GNU General Public License v3.0\
 Version: 1.0.0\
 Notes:
 
-### Name: InnoExtract
+### InnoExtract
 
 Website: https://constexpr.org/innoextract\
 Description: A tool to unpack installers created by Inno Setup\
@@ -22,7 +22,7 @@ License: https://github.com/dscharrer/innoextract/blob/master/LICENSE\
 Version: 1.9\
 Notes:
 
-### Name: Innounp
+### Innounp
 
 Website: https://innounp.sourceforge.net\
 Description: Unpacker of executables packed by InnoSetup\
@@ -31,7 +31,7 @@ License: GNU General Public License v3 (https://innounp.sourceforge.net/#Copyrig
 Version: 0.50\
 Notes:
 
-### Name: lessmsi
+### lessmsi
 
 Website: https://github.com/activescott/lessmsi\
 Description: View and Extract the contents of a Windows MSI file\
@@ -40,7 +40,7 @@ License: MIT License (https://github.com/activescott/lessmsi/blob/master/LICENSE
 Version: 1.10.0\
 Notes:
 
-### Name: myAutToExe
+### myAutToExe
 
 Website: https://github.com/dzzie/myaut\_contrib\
 Description: AutoIT installer extractor\
@@ -49,7 +49,7 @@ License:\
 Version: 2.12\
 Notes:
 
-### Name: Py2ExeDecompiler
+### Py2ExeDecompiler
 
 Website: https://github.com/endgameinc/Py2ExeDecompiler\
 Description: Decompiles executables originally compiled by Py2Exe\
@@ -58,7 +58,7 @@ License: MIT License (https://github.com/endgameinc/Py2ExeDecompiler/blob/master
 Version: 1.0\
 Notes:
 
-### Name: PyInstaller Extractor
+### PyInstaller Extractor
 
 Website: https://github.com/extremecoders-re/pyinstxtractor\
 Description: Python script to extract contents of PyInstallers\
@@ -67,7 +67,7 @@ License: GNU General Public License v3.0 (https://github.com/extremecoders-re/py
 Version: 2022.11\
 Notes:
 
-### Name: UnAutoIt
+### UnAutoIt
 
 Website: https://github.com/digitalsleuth/UnAutoIt\
 Description: AutoIt extractor\
@@ -76,7 +76,7 @@ License: GNU General Public License v3 (https://github.com/digitalsleuth/UnAutoI
 Version: 1.1.1\
 Notes:
 
-### Name: UniExtract2
+### UniExtract2
 
 Website: https://github.com/Bioruebe/UniExtract2\
 Description: Tool to extract files from installers\

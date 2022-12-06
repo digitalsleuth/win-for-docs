@@ -4,7 +4,7 @@ description: Basic utilities to assist in data analysis or transfer
 
 # Utilities
 
-### Name: Encrypted Disk Detector (EDD)
+### Encrypted Disk Detector (EDD)
 
 Website: https://www.magnetforensics.com\
 Description: Detects encrypted disks\
@@ -13,7 +13,7 @@ License: EULA\
 Version: 310\
 Notes: Standalone Utility
 
-### Name: FastCopy
+### FastCopy
 
 Website: https://fastcopy.jp\
 Description: Fast file copy software which can retain file details\
@@ -22,7 +22,7 @@ License: Copyright - All rights reserved - https://fastcopy.jp/help/fastcopy\_en
 Version: 4.1.7\
 Notes:
 
-### Name: HashCheck
+### HashCheck
 
 Website: https://github.com/gurnec/HashCheck\
 Description: Context-Menu / Shell Extension hash generator utility\
@@ -31,7 +31,7 @@ License: https://github.com/gurnec/HashCheck/blob/master/license.txt\
 Version: 2.4.0.55\
 Notes:
 
-### Name: IrfanView x64
+### IrfanView x64
 
 Website: https://www.irfanview.com/64bit.htm\
 Description: IrfanView image viewer and editor\
@@ -40,7 +40,7 @@ License: https://www.irfanview.com/eula.htm\
 Version: 4.60\
 Notes:
 
-### Name: IrfanView x64 Plugins
+### IrfanView x64 Plugins
 
 Website: https://www.irfanview.com/64bit.htm\
 Description: IrfanView Plugins\
@@ -49,7 +49,7 @@ License: https://www.irfanview.com/eula.htm\
 Version: 4.60\
 Notes:
 
-### Name: megatools
+### megatools
 
 Website: https://megatools.megous.com\
 Description: Mega.NZ downloader suite\
@@ -58,7 +58,7 @@ License: GNU General Public License v2 (https://megous.com/git/megatools/tree/LI
 Version: 1.11.0\
 Notes:
 
-### Name: Microsoft PowerToys
+### Microsoft PowerToys
 
 Website: https://github.com/microsoft/powertoys\
 Description: Windows productivity system utilities\
@@ -67,7 +67,7 @@ License: MIT (https://github.com/microsoft/PowerToys/blob/main/LICENSE)\
 Version: 0.64.1\
 Notes:
 
-### Name: Nuix Evidence Mover
+### Nuix Evidence Mover
 
 Website: https://www.nuix.com/nuix-evidence-mover\
 Description: File Transfer tool with source and destination hashing\
@@ -76,7 +76,7 @@ License: https://www.oracle.com/legal/terms.html\
 Version: 6.2.1\
 Notes:
 
-### Name: OpenHashTab
+### OpenHashTab
 
 Website: https://github.com/namazso/OpenHashTab\
 Description: Shell extension for file hashing\
@@ -85,7 +85,7 @@ License: GNU General Public License 3.0 (https://github.com/namazso/OpenHashTab/
 Version: 3.0.2\
 Notes:
 
-### Name: Rufus
+### Rufus
 
 Website: https://rufus.ie\
 Description: USB ISO Creator\
@@ -94,7 +94,7 @@ License: GNU General Public License v3 - https://github.com/pbatard/rufus/blob/m
 Version: 3.21\
 Notes:
 
-### Name: Tableau Firmware Update
+### Tableau Firmware Update
 
 Website: https://www.opentext.com\
 Description: Firmware update utility for Tableau forensic devices\
@@ -103,7 +103,7 @@ License: EULA\
 Version: 22.3.2\
 Notes:
 
-### Name: USB Registry Write Blocker
+### USB Registry Write Blocker
 
 Website: https://github.com/digitalsleuth/registry-write-block\
 Description: USB Write Blocker for standard USB / UASP devices using Registry Modifications\
@@ -112,7 +112,7 @@ License: MIT License (https://github.com/digitalsleuth/Registry-Write-Block/blob
 Version: 1.2\
 Notes:
 
-### Name: VcXsrv Windows X Server
+### VcXsrv Windows X Server
 
 Website: https://sourceforge.net/projects/vcxsrv\
 Description: Windows X-Server for interacting with X-Windows environments\
@@ -121,7 +121,7 @@ License: GNU General Public License v3 (https://sourceforge.net/p/vcxsrv/code/ci
 Version: 1.20.14.0\
 Notes:
 
-### Name: WindowGrid
+### WindowGrid
 
 Website: http://windowgrid.net\
 Description: Tool to easily align windows and icons to a grid on the Windows Desktop\

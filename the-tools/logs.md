@@ -4,7 +4,7 @@ description: Event and Web log analysis
 
 # Logs
 
-### Name: EventFinder
+### EventFinder
 
 Website: https://github.com/BeanBagKing/EventFinder2\
 Description: Event Log Parser\
@@ -13,7 +13,7 @@ License: GNU General Public License v3 (https://github.com/BeanBagKing/EventFind
 Version: 2.2.1\
 Notes:
 
-### Name: evtx\_dump
+### evtx\_dump
 
 Website: https://github.com/omerbenamram/evtx\
 Description: EVTX Event Log Parser\
@@ -22,7 +22,7 @@ License: Apache License v2 (https://github.com/omerbenamram/evtx/blob/master/LIC
 Version: 0.8.0\
 Notes:
 
-### Name: HttpLogBrowser
+### HttpLogBrowser
 
 Website: https://www.finalanalytics.com/products/httplogbrowser\
 Description: Web server log analyzer\
@@ -31,7 +31,7 @@ License: EULA (https://www.finalanalytics.com/downloads/HttpLogBrowser-EULA.pdf)
 Version: 4.6.1.0\
 Notes:
 
-### Name: Log Parser
+### Log Parser
 
 Website: https://www.microsoft.com\
 Description: Event Log parser\
@@ -40,7 +40,7 @@ License:\
 Version: 2.2.10\
 Notes:
 
-### Name: LogParser Studio
+### LogParser Studio
 
 Website: https://techcommunity.microsoft.com/gxcuf89792/attachments/gxcuf89792/Exchange/16744/1/LPSV2.D2.zip?WT.mc\_id=M365-MVP-5002016\
 Description: Graphical interface for Microsoft's log parser\
@@ -49,7 +49,7 @@ License:\
 Version: 2.0.0.100\
 Notes:
 
-### Name: LogViewer2
+### LogViewer2
 
 Website: https://github.com/woanware/LogViewer2\
 Description: View large text / log files\

@@ -4,7 +4,7 @@ description: Analyze email artifacts
 
 # Email
 
-### Name: 4n6 Email Forensics
+### 4n6 Email Forensics
 
 Website: https://forensiksoft.com\
 Description: Email forensics utility\
@@ -13,7 +13,7 @@ License: https://forensiksoft.com/terms/\
 Version: 7.5\
 Notes:
 
-### Name: BitRecover EML File Viewer
+### BitRecover EML File Viewer
 
 Website: https://www.bitrecover.com\
 Description: EML file viewer\
@@ -22,7 +22,7 @@ License: EULA - https://www.bitrecover.com/terms.html\
 Version: 5.0\
 Notes:
 
-### Name: Kernel EDB Viewer
+### Kernel EDB Viewer
 
 Website: https://www.nucleustechnologies.com\
 Description: Free Exchange EDB viewer\
@@ -31,7 +31,7 @@ License: EULA (https://www.nucleustechnologies.com/eula.pdf)\
 Version: 15.9\
 Notes:
 
-### Name: Kernel OST Viewer
+### Kernel OST Viewer
 
 Website: https://www.nucleustechnologies.com\
 Description: Free Outlook OST viewer\
@@ -40,7 +40,7 @@ License: EULA (https://www.nucleustechnologies.com/eula.pdf)\
 Version: 21.1\
 Notes:
 
-### Name: Kernel PST Viewer
+### Kernel PST Viewer
 
 Website: https://www.nucleustechnologies.com\
 Description: Free Outlook PST viewer\
@@ -49,7 +49,16 @@ License: EULA (https://www.nucleustechnologies.com/eula.pdf)\
 Version: 20.3\
 Notes:
 
-### Name: SysTools Outlook PST Viewer
+### PST Walker
+
+Website: https://www.pstwalker.com/\
+Description: Forensic GUI Tool for PST, OST\
+Author: PST Walker\
+License: GNU General Public License (GPL) (https://www.pstwalker.com/licensing-policy.html)\
+Version: 6.21\
+Notes:
+
+### SysTools Outlook PST Viewer
 
 Website: https://www.systoolsgroup.com\
 Description: Outlook PST file parser\

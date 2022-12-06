@@ -4,7 +4,7 @@ description: Tools to conduct forensic analysis on various Windows artifacts
 
 # Windows Analysis
 
-### Name: amcache.py
+### amcache.py
 
 Website: Original (https://github.com/williballenthin/python-registry)\
 Description: AmCache Registry Hive Parser\
@@ -13,7 +13,7 @@ License: Apache License 2.0 (https://github.com/williballenthin/python-registry/
 Version: 2.0\
 Notes: This version has been modified from the original, and is not stored online at this time
 
-### Name: Autorunner
+### Autorunner
 
 Website: https://github.com/woanware/autorunner\
 Description: Checks for autorun applications on Windows\
@@ -22,7 +22,7 @@ License: Public Domain\
 Version: 0.0.16\
 Notes:
 
-### Name: autotimeliner
+### autotimeliner
 
 Website: https://github.com/andreafortuna/autotimeliner\
 Description: Timeline generator using Sleuthkit and Volatility\
@@ -31,7 +31,7 @@ License: MIT License (https://github.com/andreafortuna/autotimeliner/blob/master
 Version: 1.1.0\
 Notes:
 
-### Name: bitsparser
+### bitsparser
 
 Website: https://github.com/digitalsleuth/bitsparser\
 Description: A python tool to parse Windows BITS database files\
@@ -40,7 +40,7 @@ License: Apache License v2.0 (https://github.com/digitalsleuth/BitsParser/blob/m
 Version: 1.0\
 Notes:
 
-### Name: Hindsight
+### Hindsight
 
 Website: https://github.com/obsidianforensics/hindsight\
 Description: Web-based Chromium Browser artifact parser (Chrome origins)\
@@ -49,7 +49,7 @@ License: Apache v2.0 (https://github.com/obsidianforensics/hindsight/blob/master
 Version: 2021.12\
 Notes:
 
-### Name: Kansa
+### Kansa
 
 Website: https://github.com/davehull/kansa\
 Description: Powershell Incident Response Framework\
@@ -58,7 +58,7 @@ License: Apache License v2.0 (https://github.com/davehull/Kansa/blob/master/LICE
 Version: 18NOV2022 (No defined version)\
 Notes:
 
-### Name: kape
+### kape
 
 Website: https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape\
 Description: Incident Response Artifact Parser and Extractor\
@@ -67,7 +67,7 @@ License: https://www.kroll.com/en/services/cyber-risk/incident-response-litigati
 Version: 1.2.0.0\
 Notes:
 
-### Name: LogFileParser
+### LogFileParser
 
 Website: https://github.com/jschicht/LogFileParser\
 Description: NTFS $LogFile Parser\
@@ -76,7 +76,7 @@ License: MIT (https://github.com/jschicht/LogFileParser/blob/master/LICENSE.md)\
 Version: 2.0.0.49\
 Notes:
 
-### Name: MagnetRamCapture (MRC)
+### MagnetRamCapture (MRC)
 
 Website: https://magnetforensics.com\
 Description: Windows memory capture utility\
@@ -85,7 +85,7 @@ License: EULA\
 Version: 1.2.0\
 Notes:
 
-### Name: MFT Browser
+### MFT Browser
 
 Website: https://github.com/kacos2000/MFT\_Browser\
 Description: Graphical MFT Browser utility\
@@ -94,7 +94,7 @@ License: MIT License (https://github.com/kacos2000/MFT\_Browser/blob/master/LICE
 Version: 0.0.68.0\
 Notes:
 
-### Name: MiTeC Tool Suite
+### MiTeC Tool Suite
 
 Website: https://mitec.cz\
 Description: Suite of Windows-based analysis tools\
@@ -103,7 +103,7 @@ License: Free to use for private, educational and non-commercial purposes\
 Version: Various\
 Notes:
 
-### Name: Nirsoft
+### Nirsoft
 
 Website: https://nirsoft.net\
 Description: Suite of various Windows Analysis Tools\
@@ -112,7 +112,7 @@ License:\
 Version: 1.23.65\
 Notes:
 
-### Name: NTFS Log Tracker
+### NTFS Log Tracker
 
 Website: https://sites.google.com/site/forensicnote/ntfs-log-tracker\
 Description: NTFS $LogFile, $UsnJrnl:$J parser\
@@ -121,7 +121,7 @@ License:\
 Version: 1.71\
 Notes:
 
-### Name: Pilfer
+### Pilfer
 
 Website: https://github.com/digitalsleuth/forensics\_tools\
 Description: Rapid triage tool using Windows in-built binaries\
@@ -130,7 +130,7 @@ License: GNU General Public License v3 (https://github.com/digitalsleuth/forensi
 Version: 2.4\
 Notes:
 
-### Name: Shadow Explorer
+### Shadow Explorer
 
 Website: https://www.shadowexplorer.com\
 Description: Windows Volume Shadow Copy viewer\
@@ -139,7 +139,7 @@ License:\
 Version: 0.9.462.0\
 Notes:
 
-### Name: SilkETW
+### SilkETW
 
 Website: https://github.com/mandiant/SilkETW\
 Description: Wrapper for ETW (Event Tracing for Windows)\
@@ -148,7 +148,7 @@ License: Apache License v2 (https://github.com/mandiant/SilkETW/raw/master/LICEN
 Version: 0.8\
 Notes: Sample Usage - https://www.mandiant.com/resources/blog/silketw-because-free-telemetry-is-free
 
-### Name: srum-dump
+### srum-dump
 
 Website: https://github.com/MarkBaggett/srum-dump\
 Description: Tool to analyze data in the Windows System Resource Usage Monitor database\
@@ -157,7 +157,7 @@ License: GNU General Public License v3 (https://github.com/MarkBaggett/srum-dump
 Version: 2.4\
 Notes:
 
-### Name: Sysinternals
+### Sysinternals
 
 Website: https://sysinternals.com\
 Description: Suite of Windows Analysis and Management Tools\
@@ -166,7 +166,7 @@ License: https://learn.microsoft.com/en-us/sysinternals/license-terms\
 Version: 2022.11.28 (date of last update - no specific version number identified)\
 Notes:
 
-### Name: The Sleuth Kit
+### The Sleuth Kit
 
 Website: https://github.com/sleuthkit/sleuthkit/\
 Description: Library and collection of command line DFIR tools\
@@ -175,7 +175,7 @@ License: Multiple Licenses (https://www.sleuthkit.org/sleuthkit/licenses.php)\
 Version: 4.11.1\
 Notes:
 
-### Name: usbdeviceforensics
+### usbdeviceforensics
 
 Website: https://github.com/digitalsleuth/usbdeviceforensics\
 Description: Track a USB device throughout a Windows system\
@@ -184,7 +184,7 @@ License: Public Domain\
 Version: 1.0.0\
 Notes:
 
-### Name: Velociraptor
+### Velociraptor
 
 Website: https://docs.velociraptor.app/\
 Description: DFIR live acquisition tool\
@@ -193,7 +193,7 @@ License: GNU Affero General Public License v3 (https://github.com/Velocidex/velo
 Version: 0.6.7\
 Notes:
 
-### Name: Volatility
+### Volatility
 
 Website: https://github.com/volatilityfoundation/volatility\
 Description: Memory analysis toolset\
@@ -202,7 +202,7 @@ License: GNU General Public License v2 (https://github.com/volatilityfoundation/
 Version: 2\
 Notes:
 
-### Name: Volatility3
+### Volatility3
 
 Website: https://github.com/volatilityfoundation/volatility3\
 Description: Memory analysis toolset\
@@ -211,7 +211,7 @@ License: Volatility Software License (https://www.volatilityfoundation.org/licen
 Version: 3\
 Notes:
 
-### Name: vssmount
+### vssmount
 
 Website: https://github.com/digitalsleuth/forensics\_tools\
 Description: Windows Batch script to work with and mount Volume Shadow Copies\
@@ -220,7 +220,7 @@ License: GNU General Public License v3 (https://github.com/digitalsleuth/forensi
 Version: 2.0\
 Notes:
 
-### Name: winpmem
+### winpmem
 
 Website: https://github.com/velocidex/WinPmem\
 Description: Memory Acquisition Tool\
@@ -229,7 +229,7 @@ License: Apache License v2 (https://github.com/Velocidex/WinPmem/blob/master/LIC
 Version: 4.0.rc2\
 Notes:
 
-### Name: WLEAPP
+### WLEAPP
 
 Website: https://github.com/abrignoni/wleapp\
 Description: Windows Logs Events and Properties Parser\
@@ -238,7 +238,7 @@ License: MIT License (https://github.com/abrignoni/WLEAPP/blob/main/LICENSE)\
 Version: 0.1\
 Notes:
 
-### Name: WMI Parser
+### WMI Parser
 
 Website: https://github.com/woanware/wmi-parser\
 Description: Parse the WMI object database for persistence\
@@ -247,7 +247,7 @@ License: Unknown\
 Version: 0.0.2\
 Notes:
 
-### Name: Zimmerman Tools
+### Zimmerman Tools
 
 Website: https://ericzimmerman.github.io\
 Description: Suite of Forensic Tools\

@@ -6,7 +6,7 @@ description: >-
 
 # Acquisition and Analysis
 
-### Name: Active Disk Editor
+### Active Disk Editor
 
 Website: https://www.disk-editor.org\
 Description: File / Disk Editor and Template Manager\
@@ -15,7 +15,7 @@ License: https://www.lsoft.net/terms/\
 Version: 7.3.01\
 Notes:
 
-### Name: Arsenal Image Mounter
+### Arsenal Image Mounter
 
 Website: https://arsenalrecon.com\
 Description: Forensic Image Mounter\
@@ -24,7 +24,7 @@ License: https://github.com/ArsenalRecon/Arsenal-Image-Mounter/blob/master/LICEN
 Version: 3.9.228\
 Notes:
 
-### Name: Autopsy
+### Autopsy
 
 Website: https://www.sleuthkit.org\
 Description: GUI based application for image analysis\
@@ -33,7 +33,7 @@ License: Apache 2.0 (https://github.com/sleuthkit/autopsy/blob/master/README.txt
 Version: 4.19.3\
 Notes:
 
-### Name: Cerbero Suite
+### Cerbero Suite
 
 Website: https://cerbero.io\
 Description: Application Analysis for Reverse Engineering\
@@ -42,7 +42,7 @@ License:\
 Version: 6.1.1\
 Notes:
 
-### Name: FTK Imager
+### FTK Imager
 
 Website: https://www.exterro.com\
 Description: Forensic Image Acquisition and Triage tool\
@@ -51,7 +51,7 @@ License: EULA\
 Version: 4.7.1.2\
 Notes:
 
-### Name: Magnet Acquire
+### Magnet Acquire
 
 Website: https://www.magnetforensics.com\
 Description: Evidence Acquisition tool\
@@ -60,7 +60,7 @@ License: EULA\
 Version: 2.58.0.32373\
 Notes:
 
-### Name: Magnet AXIOM
+### Magnet AXIOM
 
 Website: https://www.magnetforensics.com\
 Description: Evidence Acquisition and Analysis toolset\
@@ -69,7 +69,7 @@ License: EULA\
 Version: 6.8.0.33717\
 Notes:
 
-### Name: Magnet Chromebook Acquisition
+### Magnet Chromebook Acquisition
 
 Website: https://www.magnetforensics.com\
 Description: Evidence Acquisition for Chromebook\
@@ -78,7 +78,7 @@ License: EULA\
 Version: 1.06\
 Notes:
 
-### Name: Tableau Imager
+### Tableau Imager
 
 Website: https://opentext.com\
 Description: Disk / Device Imager\
@@ -87,7 +87,7 @@ License: EULA\
 Version: 20.3.3\
 Notes:
 
-### Name: X-Ways Forensics
+### X-Ways Forensics
 
 Website: https://x-ways.net\
 Description: Forensic Analysis Software\
