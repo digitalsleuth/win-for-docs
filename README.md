@@ -1,8 +1,8 @@
 ---
-description: Documentation
+description: A Windows Forensics Toolkit and Environment Builder
 ---
 
-# WIN-FOR - A Windows Forensics Toolkit and Environment Builder
+# WIN-FOR
 
 ![](.gitbook/assets/DigitalSleuth-logo.png)
 

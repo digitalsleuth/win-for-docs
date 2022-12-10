@@ -1,6 +1,6 @@
 # Table of contents
 
-* [WIN-FOR - A Windows Forensics Toolkit and Environment Builder](README.md)
+* [WIN-FOR](README.md)
 
 ## INSTALLATION
 
