@@ -4,6 +4,15 @@ description: Basic utilities to assist in data analysis or transfer
 
 # Utilities
 
+### Agent Ransack
+
+Website: https://www.mythicsoft.com/agentransack/\
+Description: File Search utility\
+Author: Mythicsoft\
+License: End User License Agreement\
+Version: 9.0.3349.1\
+Notes:
+
 ### Encrypted Disk Detector (EDD)
 
 Website: https://www.magnetforensics.com\
@@ -19,7 +28,7 @@ Website: https://fastcopy.jp\
 Description: Fast file copy software which can retain file details\
 Author: FastCopy Lab - https://fastcopy.jp/company.html\
 License: Copyright - All rights reserved - https://fastcopy.jp/help/fastcopy\_eng.htm#license\
-Version: 4.1.7\
+Version: 4.2.1\
 Notes:
 
 ### HashCheck
@@ -37,7 +46,7 @@ Website: https://www.irfanview.com/64bit.htm\
 Description: IrfanView image viewer and editor\
 Author: Irfan Skiljan\
 License: https://www.irfanview.com/eula.htm\
-Version: 4.60\
+Version: 4.62\
 Notes:
 
 ### IrfanView x64 Plugins
@@ -46,7 +55,7 @@ Website: https://www.irfanview.com/64bit.htm\
 Description: IrfanView Plugins\
 Author: Irfan Skiljan\
 License: https://www.irfanview.com/eula.htm\
-Version: 4.60\
+Version: 4.62\
 Notes:
 
 ### megatools
@@ -65,6 +74,15 @@ Description: Windows productivity system utilities\
 Author: Microsoft\
 License: MIT (https://github.com/microsoft/PowerToys/blob/main/LICENSE)\
 Version: 0.64.1\
+Notes:
+
+### Monolith Notes
+
+Website: https://www.monolithforensics.com/\
+Description: Forensic note taking and tracking tool\
+Author: Monolith Forensics\
+License: EULA\
+Version: 1.0.1\
 Notes:
 
 ### Nuix Evidence Mover
@@ -128,4 +146,13 @@ Description: Tool to easily align windows and icons to a grid on the Windows Des
 Author: Joshua Wilding\
 License: Unknown\
 Version: 1.3.1.1\
+Notes:
+
+### WinMerge
+
+Website: https://winmerge.org\
+Description: File Differencing Tool\
+Author: Dean P. Grimm (Thingamahoocie Software)\
+License: GNU General Public License v2.0 (https://github.com/WinMerge/winmerge/blob/master/LICENSE.md)\
+Version: 2.16.25\
 Notes:

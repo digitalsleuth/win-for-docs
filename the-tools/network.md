@@ -40,6 +40,15 @@ License: MIT License (https://github.com/digitalsleuth/naft/blob/main/LICENSE.md
 Version: 1.0.0b1\
 Notes:
 
+### Network Miner
+
+Website: https://www.netresec.com/\
+Description: Network traffic analysis tool\
+Author: NETRESEC AB\
+License: GNU General Public License (GPL) v2.0 (https://www.netresec.com/?page=NetworkMinerSourceCode)\
+Version: 2.8\
+Notes:
+
 ### PuTTY
 
 Website: https://www.chiark.greenend.org.uk/\~sgtatham/putty/\

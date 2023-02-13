@@ -22,6 +22,15 @@ License: EULA - https://www.bitrecover.com/terms.html\
 Version: 5.0\
 Notes:
 
+### Email Header Analyzer
+
+Website: https://github.com/cyberdefenders/email-header-analyzer\
+Description: Python-based Email Header Analysis Tool\
+Author: Ahmed Shawky (lnxg33k)\
+License: GNU General Public License v3.0 (https://github.com/cyberdefenders/email-header-analyzer/blob/master/LICENSE.md)\
+Version: v1\
+Notes:
+
 ### Kernel EDB Viewer
 
 Website: https://www.nucleustechnologies.com\
@@ -55,7 +64,7 @@ Website: https://www.pstwalker.com/\
 Description: Forensic GUI Tool for PST, OST\
 Author: PST Walker\
 License: GNU General Public License (GPL) (https://www.pstwalker.com/licensing-policy.html)\
-Version: 6.21\
+Version: 7.04\
 Notes:
 
 ### SysTools Outlook PST Viewer

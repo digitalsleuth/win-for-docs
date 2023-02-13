@@ -73,7 +73,7 @@ Website: https://github.com/ExeinfoASL/ASL\
 Description: EXE, Packer, Compiler detection\
 Author: ExeinfoASL\
 License: None Listed\
-Version: 0.0.7.3\
+Version: 0.0.7.6\
 Notes:
 
 ### File Insight
@@ -127,7 +127,7 @@ Website: https://malcat.fr\
 Description: Malware Analysis Tool\
 Author: Malcat EL\
 License: https://malcat.fr/index.html#faq6\
-Version: 0.8.6\
+Version: 0.9.0\
 Notes:
 
 ### mal\_unpack
@@ -155,15 +155,6 @@ Description: PE Analysis tool suite\
 Author: Erik Pistelli\
 License:\
 Version: IV\
-Notes:
-
-### OllyDbg
-
-Website: https://www.ollydbg.de/\
-Description: Assembler level debugger for Windows\
-Author: Oleh Yuschuk\
-License: GNU General Public License v2 (https://www.ollydbg.de/srcdescr.htm#\_Toc531975948)\
-Version: 2.01h\
 Notes:
 
 ### PE-bear
@@ -199,7 +190,16 @@ Website: https://www.winitor.com\
 Description: PE Analysis Tool\
 Author: Marc Ochsenmeier\
 License: As-Is, without warranty (https://www.winitor.com/tools/pestudio/changes.log)\
-Version: 9.46\
+Version: 9.47\
+Notes:
+
+### pev
+
+Website: https://github.com/merces/pev\
+Description: PE Analysis toolkit\
+Author: Fernando Merces\
+License: GNU General Public License v2.0 (https://github.com/merces/pev/blob/master/LICENSE)\
+Version: 0.81\
 Notes:
 
 ### PPEE (puppy)
@@ -289,7 +289,7 @@ Website: https://www.vb-decompiler.org\
 Description: Visual Basic Decompiler\
 Author: DotFix Software\
 License: https://www.vb-decompiler.org/license.htm\
-Version: 11.9\
+Version: 12.0\
 Notes:
 
 ### WinDbg
@@ -298,8 +298,8 @@ Website: https://www.microsoft.com\
 Description: Windows Debugger\
 Author: Microsoft\
 License:\
-Version: 1.2202.7001.0\
-Notes: To get the download URL, Visit: https://store.rg-adguard.net/ and paste the URL for the tool from the MS Store (easier from web browser)
+Version: 1.2210.3001.0\
+Notes: Installed via winget
 
 ### Windows Sandbox
 

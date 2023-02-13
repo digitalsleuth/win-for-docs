@@ -10,7 +10,7 @@ Website: https://ericzimmerman.github.io\
 Description: Registry analysis tool (part of EZ Tools / Zimmerman Tools)\
 Author: Eric Zimmerman\
 License: MIT License (https://github.com/EricZimmerman/Issues/blob/master/LICENSE)\
-Version: 2021-01-22\
+Version: 2.0.0.0\
 Notes:
 
 ### Registry Viewer

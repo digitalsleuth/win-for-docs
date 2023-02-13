@@ -13,6 +13,15 @@ License: https://exiftool.org/#license\
 Version: 12.51\
 Notes:
 
+### ExifToolGui
+
+Website: https://exiftool.org\
+Description: Graphical EXIF analysis tool\
+Author: Phil Harvey\
+License: https://exiftool.org/#license\
+Version: 5.16\
+Notes:
+
 ### Libre Office
 
 Website: https://www.libreoffice.org\
@@ -46,7 +55,7 @@ Website: https://notepad-plus-plus.org\
 Description: Free source code / text editor\
 Author: Don Ho\
 License: GNU General Public License 2.0 (https://notepad-plus-plus.org/)\
-Version: 8.4.7\
+Version: 8.4.8\
 Notes:
 
 ### OfficeMalScanner

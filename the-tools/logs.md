@@ -28,7 +28,7 @@ Website: https://www.finalanalytics.com/products/httplogbrowser\
 Description: Web server log analyzer\
 Author: FinalAnalytics\
 License: EULA (https://www.finalanalytics.com/downloads/HttpLogBrowser-EULA.pdf)\
-Version: 4.6.1.0\
+Version: 4.6.2.0\
 Notes:
 
 ### Log Parser

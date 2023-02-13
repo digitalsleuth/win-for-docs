@@ -58,6 +58,15 @@ License: GNU General Public License v3 (https://github.com/java-decompiler/jd-gu
 Version: 1.6.6\
 Notes:
 
+### Plist Editor
+
+Website: https://www.icopybot.com\
+Description: Mac PList viewing tool\
+Author: VOW Software Studio\
+License: End User License Agreement\
+Version: 2.5.0\
+Notes: Free Trial
+
 ### VLEAPP
 
 Website: https://github.com/abrignoni/vleapp\

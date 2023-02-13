@@ -19,7 +19,7 @@ Website: https://github.com/gchq/cyberchef\
 Description: Web app for encryption, encoding, compression and data analysis\
 Author: GCHQ\
 License: Apache License v2.0 (https://github.com/gchq/CyberChef/blob/master/LICENSE)\
-Version: 9.54.0\
+Version: 9.55.0\
 Notes:
 
 ### Data Dump
@@ -28,7 +28,7 @@ Website: https://www.digital-detective.net/datadump/\
 Description: Tool to extract segments of data from an image or device\
 Author: Craig Wilson (https://www.digital-detective.net)\
 License:\
-Version: 2.0.22328.16\
+Version: 2.1.23012.16\
 Notes: x86
 
 ### DCode
@@ -73,7 +73,7 @@ Website: https://github.com/ufrisk/MemProcFS\
 Description: Memory Process File System\
 Author: Ulf Frisk\
 License: GNU Affero GPL v3.0 - https://github.com/ufrisk/MemProcFS/blob/master/LICENSE\
-Version: 5.2.5\
+Version: 5.3.1\
 Notes:
 
 ### Passware Encryption Analyzer
@@ -82,7 +82,16 @@ Website: https://www.passware.com\
 Description: Encryption detection tool for various file types\
 Author: Passware - Dmitry Sumin\
 License: EULA (https://support.passware.com/hc/en-us/articles/221742768-What-are-the-terms-of-the-end-user-license-agreement-for-Passware-software-)\
-Version: 2022.3.1.3215\
+Version: 2023.1.1.3432\
+Notes:
+
+### photorec / testdisk
+
+Website: https://www.cgsecurity.org/\
+Description: Raw data parsing tool\
+Author: Christophe Grenier\
+License: GNU General Public License v2.0 (https://git.cgsecurity.org/cgit/testdisk/tree/COPYING)\
+Version: 7.1\
 Notes:
 
 ### Redline

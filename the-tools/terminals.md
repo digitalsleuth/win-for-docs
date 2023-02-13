@@ -19,7 +19,7 @@ Website: https://mobaxterm.mobatek.net\
 Description: Enhanced Terminal for Windows\
 Author: Mobatek (https://www.mobatek.net/aboutus.html)\
 License: https://mobaxterm.mobatek.net/license.html\
-Version: 22.0\
+Version: 22.2\
 Notes: Home Edition
 
 ### Windows Terminal
@@ -28,8 +28,8 @@ Website: https://github.com/microsoft/terminal\
 Description: Terminal Emulator\
 Author: Microsoft\
 License: MIT License (https://github.com/microsoft/terminal/blob/main/LICENSE)\
-Version: 1.11.3471.0\
-Notes: NOT CURRENTLY INSTALLED - PENDING UPDATES FROM MICROSOFT
+Version: 1.15.3465.0\
+Notes:&#x20;
 
 ### WSL Setup
 

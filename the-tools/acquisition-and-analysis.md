@@ -12,7 +12,7 @@ Website: https://www.disk-editor.org\
 Description: File / Disk Editor and Template Manager\
 Author: LSoft Technologies\
 License: https://www.lsoft.net/terms/\
-Version: 7.3.01\
+Version: 23.0.1\
 Notes:
 
 ### Arsenal Image Mounter
@@ -30,7 +30,7 @@ Website: https://www.sleuthkit.org\
 Description: GUI based application for image analysis\
 Author: Brian Carrier / Basis Technology\
 License: Apache 2.0 (https://github.com/sleuthkit/autopsy/blob/master/README.txt)\
-Version: 4.19.3\
+Version: 4.20.0\
 Notes:
 
 ### Cerbero Suite
@@ -57,7 +57,7 @@ Website: https://www.magnetforensics.com\
 Description: Evidence Acquisition tool\
 Author: Jad Saliba - Magnet Forensics\
 License: EULA\
-Version: 2.58.0.32373\
+Version: 2.59.0.32716\
 Notes:
 
 ### Magnet AXIOM
@@ -93,5 +93,5 @@ Website: https://x-ways.net\
 Description: Forensic Analysis Software\
 Author: Stefan Fleischmann\
 License: License Dependent - https://www.x-ways.net/terminology.html\
-Version: 20.6 SR-5 x64\
+Version: 20.7 SR-2 x64\
 Notes:

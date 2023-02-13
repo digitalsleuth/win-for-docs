@@ -73,7 +73,7 @@ Website: https://www.java.com\
 Description: Java Engine\
 Author: Oracle\
 License: https://www.oracle.com/legal/terms.html\
-Version: 8u311\
+Version: 8u361\
 Notes:
 
 ### Microsoft Visual C++ Compiler for Python 2.7
@@ -92,6 +92,15 @@ Description: Microsoft Visual C++ 2015 Build Tools\
 Author: Microsoft\
 License:\
 Version: 15.9.51\
+Notes:
+
+### Portals
+
+Website: https://portals-app.com\
+Description: Desktop Organizer\
+Author: Ross Patterson\
+License: Free To Use - Terms and Conditions (https://rosspat.dev/privacy/)\
+Version: 2.1.0.6\
 Notes:
 
 ### Pycryptodome

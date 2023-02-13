@@ -40,6 +40,24 @@ License: Apache License v2.0 (https://github.com/digitalsleuth/BitsParser/blob/m
 Version: 1.0\
 Notes:
 
+### bmc-tools
+
+Website: https://github.com/ANSSI-FR/bmc-tools\
+Description: Parse Bitmap Cache RDP files\
+Author: ANSSI-FR\
+License: CeCILL Free Software License Agreement v2.1 (https://github.com/ANSSI-FR/bmc-tools/blob/master/LICENCE.txt)\
+Version: 3.00\
+Notes:
+
+### Event Log Explorer
+
+Website: https://eventlogxp.com/\
+Description: Windows Event Log Parser\
+Author: FSPro\
+License: Multiple (https://eventlogxp.com/order.html)\
+Version: 5.3\
+Notes: 30 Day Trial
+
 ### Hindsight
 
 Website: https://github.com/obsidianforensics/hindsight\
@@ -64,7 +82,7 @@ Website: https://www.kroll.com/en/services/cyber-risk/incident-response-litigati
 Description: Incident Response Artifact Parser and Extractor\
 Author: Eric Zimmerman / Kroll\
 License: https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape\
-Version: 1.2.0.0\
+Version: 1.3.0.2\
 Notes:
 
 ### LogFileParser
@@ -163,7 +181,7 @@ Website: https://sysinternals.com\
 Description: Suite of Windows Analysis and Management Tools\
 Author: Microsoft / Mark Russinovich\
 License: https://learn.microsoft.com/en-us/sysinternals/license-terms\
-Version: 2022.11.28 (date of last update - no specific version number identified)\
+Version: 2023.01.25 (date of last update - no specific version number identified)\
 Notes:
 
 ### The Sleuth Kit
@@ -172,7 +190,16 @@ Website: https://github.com/sleuthkit/sleuthkit/\
 Description: Library and collection of command line DFIR tools\
 Author: Brian Carrier\
 License: Multiple Licenses (https://www.sleuthkit.org/sleuthkit/licenses.php)\
-Version: 4.11.1\
+Version: 4.12.0\
+Notes:
+
+### ThumbCache Viewer
+
+Website: https://thumbcacheviewer.github.io/\
+Description: Windows Thumbnail Cache parser\
+Author: Eric Kutcher\
+License: GNU General Public License v3.0 (identified within program)\
+Version: 1.0.3.7\
 Notes:
 
 ### usbdeviceforensics
@@ -190,7 +217,7 @@ Website: https://docs.velociraptor.app/\
 Description: DFIR live acquisition tool\
 Author: Mike Cohen (scudette)\
 License: GNU Affero General Public License v3 (https://github.com/Velocidex/velociraptor/blob/master/LICENSE)\
-Version: 0.6.7\
+Version: 0.6.7-5\
 Notes:
 
 ### Volatility
@@ -218,6 +245,15 @@ Description: Windows Batch script to work with and mount Volume Shadow Copies\
 Author: Corey Forman (digitalsleuth)\
 License: GNU General Public License v3 (https://github.com/digitalsleuth/forensics\_tools/blob/master/LICENSE)\
 Version: 2.0\
+Notes:
+
+### Windows Timeline
+
+Website: https://github.com/kacos2000/WindowsTimeline\
+Description: Windows Timeline / Activities Cache parser\
+Author: Costas K.\
+License: Mozilla Public License v2.0 (https://github.com/kacos2000/WindowsTimeline/blob/master/LICENSE)\
+Version: 2.0.81.0\
 Notes:
 
 ### winpmem
