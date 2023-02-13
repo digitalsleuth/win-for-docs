@@ -73,7 +73,7 @@ Website: https://github.com/ufrisk/MemProcFS\
 Description: Memory Process File System\
 Author: Ulf Frisk\
 License: GNU Affero GPL v3.0 - https://github.com/ufrisk/MemProcFS/blob/master/LICENSE\
-Version: 5.2.3\
+Version: 5.2.5\
 Notes:
 
 ### Passware Encryption Analyzer

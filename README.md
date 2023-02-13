@@ -4,7 +4,7 @@ description: A Windows Forensics Toolkit and Environment Builder
 
 # WIN-FOR
 
-![](.gitbook/assets/DigitalSleuth-logo.png)
+![](.gitbook/assets/FingerPrint.png)
 
 ## About WIN-FOR
 
