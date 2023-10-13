@@ -6,15 +6,15 @@ description: >-
 
 # Acquisition and Analysis
 
-### Active Disk Editor
+## Active Disk Editor
 
-Website: https://www.disk-editor.org\
-Description: File / Disk Editor and Template Manager\
-Author: LSoft Technologies\
-License: https://www.lsoft.net/terms/\
-Version: 23.0.1\
-Notes:
-
+Website: https://www.disk-editor.org  
+Description: File / Disk Editor and Template Manager  
+Author: LSoft Technologies  
+License: https://www.lsoft.net/terms/  
+Version: 23.0.1  
+Notes:  
+  
 ### Arsenal Image Mounter
 
 Website: https://arsenalrecon.com\
