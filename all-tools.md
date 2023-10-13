@@ -1055,14 +1055,6 @@ Notes:
 # Network  
 Network traffic analysis tools  
 
-## Brim  
-Website: https://www.brimdata.io/  
-Description: Network Forensic GUI Tool using Zeek and Suricata  
-Author: Brim Data  
-License: GNU General Public License (GPL) (https://github.com/brimdata/brim/blob/main/LICENSE.txt)  
-Version: 0.31.0  
-Notes:  
-  
 ## Burp Suite Community Edition  
 Website: https://portswigger.net  
 Description: Packet Intercept and Analysis Tool  
