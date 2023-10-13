@@ -24,3 +24,4 @@
 * [Windows Analysis](the-tools/windows-analysis.md)
 * [Requirements](the-tools/requirements.md)
 * [Win-FOR Tool Listing](https://github.com/digitalsleuth/WIN-FOR/raw/main/WIN-FOR-Tool-List.pdf)
+* [Get the Latest Release](https://github.com/digitalsleuth/WIN-FOR/releases/latest)
