@@ -169,7 +169,7 @@ Website: https://sysinternals.com
 Description: Suite of Windows Analysis and Management Tools  
 Author: Microsoft / Mark Russinovich  
 License: https://learn.microsoft.com/en-us/sysinternals/license-terms  
-Version: 2023.09.29 (date of last update - no specific version number identified)  
+Version: 2023.10.18 (date of last update - no specific version number identified)  
 Notes:   
   
 ### The Sleuth Kit  
