@@ -12,6 +12,15 @@ License: MIT License (https://github.com/abrignoni/ALEAPP/blob/master/LICENSE)
 Version: 3.1.1  
 Notes:   
   
+### Android Studio and SDK  
+Website: https://developer.android.com/  
+Description: Tools for debugging and accessing an Android device  
+Category: Mobile Analysis  
+Author: Google  
+License:  
+Version: 34.0.5  
+Notes: Comes with adb and fastboot  
+  
 ### apktool  
 Website: https://apktool.org/  
 Description: A tool for reverse engineering Android apk files  

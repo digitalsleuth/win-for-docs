@@ -1,7 +1,7 @@
 ---
 title: "WIN-FOR Tool List"
 author: Corey Forman (digitalsleuth)
-date: 2023-10-19
+date: 2023-11-13
 mainfont: DejaVuSans
 geometry: "left=2cm,right=2cm,top=1cm,bottom=2cm"
 output: pdf_document
@@ -289,7 +289,7 @@ Website: https://notepad-plus-plus.org
 Description: Free source code / text editor  
 Author: Don Ho  
 License: GNU General Public License 2.0 (https://notepad-plus-plus.org/)  
-Version: 8.5.7  
+Version: 8.5.8  
 Notes:   
   
 ## OfficeMalScanner  
@@ -412,7 +412,7 @@ Website: https://www.aid4mail.com
 Description: Email conversion and analysis  
 Author: Fookes Software Ltd  
 License: Copyright (https://www.aid4mail.com/terms)  
-Version: 5.1.3 build 889  
+Version: 5.1.4 build 889  
 Notes: Free Trial / Limited Free Conversion  
   
 ## BitRecover EML File Viewer  
@@ -469,7 +469,7 @@ Description: Forensic GUI Tool for MSG, EML
 Category: Email  
 Author: PST Walker  
 License: GNU General Public License (GPL) (https://www.pstwalker.com/licensing-policy.html)  
-Version: 4.22  
+Version: 4.24  
 Notes:  
   
 ## PST Walker  
@@ -477,7 +477,7 @@ Website: https://www.pstwalker.com/
 Description: Forensic GUI Tool for PST, OST  
 Author: PST Walker  
 License: GNU General Public License (GPL) (https://www.pstwalker.com/licensing-policy.html)  
-Version: 7.19  
+Version: 7.21  
 Notes:  
 
 ## SysTools Outlook PST Viewer  
@@ -624,7 +624,7 @@ Website: https://malcat.fr
 Description: Malware Analysis Tool  
 Author: Malcat EL  
 License: https://malcat.fr/index.html#faq6  
-Version: 0.9.3  
+Version: 0.9.4  
 Notes:   
   
 ## mal_unpack  
@@ -744,7 +744,7 @@ Website: http://www.angusj.com/resourcehacker
 Description: Compiler and Decompiler for Windows applications  
 Author: Angus Johnson  
 License: Freeware (http://www.angusj.com/resourcehacker - License to Use)  
-Version: 5.2.1  
+Version: 5.2.4  
 Notes:   
   
 ## scdbg  
@@ -816,7 +816,7 @@ Website: https://sourceforge.net/projects/x64dbg/
 Description: Open Source x64/x32 debugger for Windows  
 Author: Duncan Ogilvie (mrexodia)  
 License: GNU General Public License v3 (https://github.com/x64dbg/x64dbg/blob/development/LICENSE)  
-Version: 2023-10-05_13-38  
+Version: 2023-11-12_23-09  
 Notes:   
   
 # Installers  
@@ -979,6 +979,15 @@ Author: Alexis Brignoni
 License: MIT License (https://github.com/abrignoni/ALEAPP/blob/master/LICENSE)  
 Version: 3.1.1  
 Notes:   
+  
+## Android Studio and SDK  
+Website: https://developer.android.com/  
+Description: Tools for debugging and accessing an Android device  
+Category: Mobile Analysis  
+Author: Google  
+License:  
+Version: 2022.3.1.20  
+Notes: Comes with adb and fastboot  
   
 ## apktool  
 Website: https://apktool.org/  
@@ -1207,7 +1216,7 @@ Website: https://www.passware.com
 Description: Encryption detection tool for various file types  
 Author: Passware - Dmitry Sumin  
 License: EULA (https://support.passware.com/hc/en-us/articles/221742768-What-are-the-terms-of-the-end-user-license-agreement-for-Passware-software-)  
-Version: 2023.3.1.3695  
+Version: 2023.4.0.3789  
 Notes:  
   
 ## photorec / testdisk  
@@ -1747,7 +1756,7 @@ Website: https://sysinternals.com
 Description: Suite of Windows Analysis and Management Tools  
 Author: Microsoft / Mark Russinovich  
 License: https://learn.microsoft.com/en-us/sysinternals/license-terms  
-Version: 2023.10.18 (date of last update - no specific version number identified)  
+Version: 2023.11.13 (date of last update - no specific version number identified)  
 Notes:   
   
 ## The Sleuth Kit  
@@ -1771,8 +1780,8 @@ Website: https://usbdetective.com
 Description: Windows USB analysis tool  
 Author: Jason Hale  
 License: Software License Agreement (https://usbdetective.com/docs/usbdla.pdf)  
-Version: 1.6.3  
-Notes: Available, but not installed by default  
+Version: 1.6.4  
+Notes:    
   
 ## usbdeviceforensics  
 Website: https://github.com/digitalsleuth/usbdeviceforensics  
@@ -1921,12 +1930,12 @@ License: Eclipse Public License (https://gitlab.com/graphviz/graphviz/-/blob/mai
 Version: 9.0.0  
 Notes:  
   
-## Java Runtime Environment  
+## Java Development Kit  
 Website: https://www.java.com  
 Description: Java Engine  
 Author: Oracle  
 License: https://www.oracle.com/legal/terms.html  
-Version: 8u361  
+Version: 17.0.9  
 Notes:   
   
 ## Microsoft Visual C++ Compiler for Python 2.7  

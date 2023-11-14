@@ -74,7 +74,7 @@ Description: Forensic GUI Tool for MSG, EML
 Category: Email  
 Author: PST Walker  
 License: GNU General Public License (GPL) (https://www.pstwalker.com/licensing-policy.html)  
-Version: 4.22  
+Version: 4.24  
 Notes:  
   
 ### PST Walker  
@@ -82,7 +82,7 @@ Website: https://www.pstwalker.com/
 Description: Forensic GUI Tool for PST, OST  
 Author: PST Walker  
 License: GNU General Public License (GPL) (https://www.pstwalker.com/licensing-policy.html)  
-Version: 7.19  
+Version: 7.21  
 Notes:  
 
 ### SysTools Outlook PST Viewer  

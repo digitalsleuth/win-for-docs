@@ -60,12 +60,12 @@ License: Eclipse Public License (https://gitlab.com/graphviz/graphviz/-/blob/mai
 Version: 9.0.0  
 Notes:  
   
-### Java Runtime Environment  
+### Java Development Kit  
 Website: https://www.java.com  
 Description: Java Engine  
 Author: Oracle  
 License: https://www.oracle.com/legal/terms.html  
-Version: 8u361  
+Version: 17.0.9  
 Notes:   
   
 ### Microsoft Visual C++ Compiler for Python 2.7  
