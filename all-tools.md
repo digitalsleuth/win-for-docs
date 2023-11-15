@@ -1,7 +1,7 @@
 ---
 title: "WIN-FOR Tool List"
 author: Corey Forman (digitalsleuth)
-date: 2023-11-13
+date: 2023-11-14
 mainfont: DejaVuSans
 geometry: "left=2cm,right=2cm,top=1cm,bottom=2cm"
 output: pdf_document
@@ -816,7 +816,7 @@ Website: https://sourceforge.net/projects/x64dbg/
 Description: Open Source x64/x32 debugger for Windows  
 Author: Duncan Ogilvie (mrexodia)  
 License: GNU General Public License v3 (https://github.com/x64dbg/x64dbg/blob/development/LICENSE)  
-Version: 2023-11-12_23-09  
+Version: 2023-11-14_12-57  
 Notes:   
   
 # Installers  

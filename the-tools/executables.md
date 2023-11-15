@@ -329,6 +329,6 @@ Website: https://sourceforge.net/projects/x64dbg/
 Description: Open Source x64/x32 debugger for Windows  
 Author: Duncan Ogilvie (mrexodia)  
 License: GNU General Public License v3 (https://github.com/x64dbg/x64dbg/blob/development/LICENSE)  
-Version: 2023-11-07_18-26  
+Version: 2023-11-14_12-57  
 Notes:   
   
