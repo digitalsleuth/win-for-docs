@@ -1,7 +1,7 @@
 ---
 title: "WIN-FOR Tool List"
 author: Corey Forman (digitalsleuth)
-date: 2023-11-14
+date: 2023-11-18
 mainfont: DejaVuSans
 geometry: "left=2cm,right=2cm,top=1cm,bottom=2cm"
 output: pdf_document
@@ -136,7 +136,7 @@ Website: https://github.com/digitalsleuth/forensics_tools
 Description: Rapid triage tool using Windows in-built binaries  
 Author: Corey Forman (digitalsleuth)  
 License: GNU General Public License v3 (https://github.com/digitalsleuth/forensics_tools/blob/master/LICENSE)  
-Version: 3.0  
+Version: 3.1  
 Notes:   
   
 ## plaso (super timeline all the things)  
@@ -595,6 +595,14 @@ License: BSD 2-Clause Simplified License (https://github.com/hasherezade/hollows
 Version: 0.3.6  
 Notes:   
   
+## IDA Free  
+Website: https://hex-rays.com/ida-free  
+Description: Binary analysis tool for x86/x64 applications  
+Author: hex-rays  
+License: Free for Educational, Personal, and non-Commercial use  
+Version: 8.3  
+Notes:  
+  
 ## ilspy  
 Website: https://github.com/icsharpcode/ilspy  
 Description: .NET Decompiler  
@@ -771,6 +779,14 @@ License: Public Domain
 Version: 0.0.0.1  
 Notes:   
   
+## Total PE 2  
+Website: https://github.com/zodiacon/TotalPE2  
+Description: PE Viewer  
+Author: Pavel Yosifovich  
+License: MIT License (https://github.com/zodiacon/TotalPE2/blob/master/LICENSE.txt)  
+Version: 0.6.5.0  
+Notes:  
+  
 ## TrID  
 Website: https://mark0.net/soft-trid-e.html  
 Description: File identifier based on their binary signatures  
@@ -816,7 +832,7 @@ Website: https://sourceforge.net/projects/x64dbg/
 Description: Open Source x64/x32 debugger for Windows  
 Author: Duncan Ogilvie (mrexodia)  
 License: GNU General Public License v3 (https://github.com/x64dbg/x64dbg/blob/development/LICENSE)  
-Version: 2023-11-14_12-57  
+Version: 2023-11-18_02-28  
 Notes:   
   
 # Installers  
@@ -1828,7 +1844,7 @@ Website: https://www.osforensics.com/tools/volatility-workbench.html
 Description: Windows-based GUI for the Volatility 3 Framework  
 Author: OSForensics  
 License: Volatility Software License (https://www.volatilityfoundation.org/license/vsl-v1.0)  
-Version: 3.0.1005  
+Version: 3.0.1006  
 Notes:  
   
 ## vssmount  

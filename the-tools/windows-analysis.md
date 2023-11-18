@@ -241,7 +241,7 @@ Website: https://www.osforensics.com/tools/volatility-workbench.html
 Description: Windows-based GUI for the Volatility 3 Framework  
 Author: OSForensics  
 License: Volatility Software License (https://www.volatilityfoundation.org/license/vsl-v1.0)  
-Version: 3.0.1005  
+Version: 3.0.1006  
 Notes:  
   
 ### vssmount  

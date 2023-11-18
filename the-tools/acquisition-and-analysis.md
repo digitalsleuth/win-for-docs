@@ -132,7 +132,7 @@ Website: https://github.com/digitalsleuth/forensics_tools
 Description: Rapid triage tool using Windows in-built binaries  
 Author: Corey Forman (digitalsleuth)  
 License: GNU General Public License v3 (https://github.com/digitalsleuth/forensics_tools/blob/master/LICENSE)  
-Version: 3.0  
+Version: 3.1  
 Notes:   
   
 ### plaso (super timeline all the things)  
