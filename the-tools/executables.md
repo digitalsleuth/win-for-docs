@@ -81,7 +81,7 @@ Website: https://github.com/ExeinfoASL/ASL
 Description: EXE, Packer, Compiler detection  
 Author: ExeinfoASL  
 License: None Listed  
-Version: 0.0.8.0  
+Version: 0.0.8.1  
 Notes:   
   
 ### File Insight  
