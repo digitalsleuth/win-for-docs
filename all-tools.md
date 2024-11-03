@@ -1,7 +1,7 @@
 ---
 title: "WIN-FOR Tool List"
 author: Corey Forman (digitalsleuth)
-date: 2024-10-23
+date: 2024-11-03
 mainfont: DejaVuSans
 geometry: "left=2cm,right=2cm,top=1cm,bottom=2cm"
 output: pdf_document
@@ -168,7 +168,7 @@ Website: https://x-ways.net
 Description: Forensic Analysis Software  
 Author: Stefan Fleischmann  
 License: License Dependent - https://www.x-ways.net/terminology.html  
-Version: 21.2  
+Version: 21.3  
 Notes:  
   
 ## X-Ways Forensics Templates  
@@ -444,7 +444,7 @@ Website: https://metaspike.com
 Description: Local and Remote email acquisition tool  
 Author: Arman Gungor - Metaspike  
 License:  
-Version: 4.0.231.1071  
+Version: 4.0.238.274  
 Notes:  
   
 ## Kernel EDB Viewer  
@@ -950,7 +950,7 @@ Website: https://eventlogxp.com/
 Description: Windows Event Log Parser  
 Author: FSPro  
 License: Multiple (https://eventlogxp.com/order.html)  
-Version: 5.4  
+Version: 5.6  
 Notes: 30 Day Trial  
   
 ## evtx_dump  
@@ -1107,6 +1107,14 @@ Description: Tool to mirror and graphically control Android devices over USB or 
 Author: Genymobile  
 License: Apache License 2.0 (https://github.com/Genymobile/scrcpy/blob/master/LICENSE)  
 Version: 2.1.1  
+Notes:  
+  
+## UFADE (Universal Forensic Apple Device Extractor)  
+Website: https://github.com/prosch88/UFADE  
+Description: Standalone tool to extract data from Apple Devices  
+Author: prosch88  
+License: GNU General Public License 3 (https://github.com/prosch88/UFADE/blob/main/LICENSE)  
+Version: 0.9.4  
 Notes:  
   
 ## VLEAPP  
@@ -1304,7 +1312,7 @@ Website: https://www.passware.com
 Description: Encryption detection tool for various file types  
 Author: Passware - Dmitry Sumin  
 License: EULA (https://support.passware.com/hc/en-us/articles/221742768-What-are-the-terms-of-the-end-user-license-agreement-for-Passware-software-)  
-Version: 2024.2.0.4023  
+Version: 2024.4.0.4328  
 Notes:  
   
 ## photorec / testdisk  
@@ -1473,7 +1481,7 @@ Website: https://www.zhornsoftware.co.uk
 Description: Mouse Jiggling Software  
 Author: Tom Revell  
 License: Free  
-Version: 1.97  
+Version: 1.98  
 Notes: 32-bit and 64-bit executables, execute from command line for additional parameters  
   
 ## CAINE (Computer Aided INvestigative Environment)  
@@ -1521,7 +1529,7 @@ Website: https://fastcopy.jp
 Description: Fast file copy software which can retain file details  
 Author: FastCopy Lab - https://fastcopy.jp/company.html  
 License: Copyright - All rights reserved - https://fastcopy.jp/help/fastcopy_eng.htm#license  
-Version: 5.4.1  
+Version: 5.8.0  
 Notes:  
   
 ## Glossary Generator  
@@ -1669,11 +1677,11 @@ Version: 2.0
 Notes:   
   
 ## VcXsrv Windows X Server  
-Website: https://sourceforge.net/projects/vcxsrv  
+Website: https://github.com/marchaesen/vcxsrv  
 Description: Windows X-Server for interacting with X-Windows environments  
 Author: Marha  
-License: GNU General Public License v3 (https://sourceforge.net/p/vcxsrv/code/ci/master/tree/COPYING)  
-Version: 1.20.14.0  
+License: GNU General Public License v3 (https://github.com/marchaesen/vcxsrv/blob/master/COPYING)  
+Version: 21.1.13.0  
 Notes:   
   
 ## Veracrypt  
@@ -1884,7 +1892,7 @@ Website: https://sites.google.com/site/forensicnote/ntfs-log-tracker
 Description: NTFS $LogFile, $UsnJrnl:$J parser  
 Author: Junghoon Oh (blueangel)  
 License:   
-Version: 1.71  
+Version: 1.8  
 Notes:   
   
 ## OneDriveExplorer  
@@ -1988,7 +1996,7 @@ Website: https://www.osforensics.com/tools/volatility-workbench.html
 Description: Windows-based GUI for the Volatility 3 Framework  
 Author: OSForensics  
 License: Volatility Software License (https://www.volatilityfoundation.org/license/vsl-v1.0)  
-Version: 3.0.1008  
+Version: 3.0.1009  
 Notes:  
   
 ## vssmount  
@@ -2028,7 +2036,7 @@ Website: https://ericzimmerman.github.io
 Description: Suite of Forensic Tools  
 Author: Eric Zimmerman  
 License: MIT License (https://github.com/EricZimmerman/Issues/blob/master/LICENSE)  
-Version: 2024-08-20  
+Version: 2024-10-28  
 Notes:   
   
 # Requirements  

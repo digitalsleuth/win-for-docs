@@ -85,6 +85,14 @@ License: Apache License 2.0 (https://github.com/Genymobile/scrcpy/blob/master/LI
 Version: 2.1.1  
 Notes:  
   
+### UFADE (Universal Forensic Apple Device Extractor)  
+Website: https://github.com/prosch88/UFADE  
+Description: Standalone tool to extract data from Apple Devices  
+Author: prosch88  
+License: GNU General Public License 3 (https://github.com/prosch88/UFADE/blob/main/LICENSE)  
+Version: 0.9.4  
+Notes:  
+  
 ### VLEAPP  
 Website: https://github.com/abrignoni/vleapp  
 Description: Vehicle Logs Events and Properties Parser  
