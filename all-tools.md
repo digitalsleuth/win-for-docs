@@ -1,12 +1,12 @@
----
-title: "WIN-FOR Tool List"
-author: Corey Forman (digitalsleuth)
-date: 2024-11-03
-mainfont: DejaVuSans
-geometry: "left=2cm,right=2cm,top=1cm,bottom=2cm"
+--- 
+title: "WIN-FOR Tool List" 
+author: Corey Forman (digitalsleuth) 
+date: 2024-12-08 
+mainfont: DejaVuSans 
+geometry: "left=2cm,right=2cm,top=1cm,bottom=2cm" 
 output: pdf_document
 ---
-
+  
 # Acquisition and Analysis  
 Tools used for the acquisition and bulk processing / analysis of evidence items  
 
@@ -24,8 +24,8 @@ Description: Forensic Image Mounter
 Author: Arsenal Recon  
 License: https://github.com/ArsenalRecon/Arsenal-Image-Mounter/blob/master/LICENSE.md  
 Version: 3.11.293  
-Notes:  
-
+Notes:   
+  
 ## Autopsy  
 Website: https://www.sleuthkit.org  
 Description: GUI based application for image analysis  
@@ -33,14 +33,14 @@ Author: Brian Carrier / Basis Technology
 License: Apache 2.0 (https://github.com/sleuthkit/autopsy/blob/master/README.txt)  
 Version: 4.21.0  
 Notes:   
-
+  
 ## Elcomsoft Forensic Disk Decryptor  
 Website: https://www.elcomsoft.com/  
 Description: Tool for decrypting disks or extracting encryption keys from memory  
 Author: Elcomsoft  
 License: EULA (https://www.elcomsoft.com/legal.html)  
 Version: 2.20.1011.6893  
-Notes: Available, but not installed by default  
+Notes:   
   
 ## FEX Imager  
 Website: https://getdataforensics.com  
@@ -48,7 +48,7 @@ Description: Physical and Logical Imaging Tool
 Author: GetData Forensics  
 License: Free  
 Version: 2.2.1.283  
-Notes:  
+Notes:   
   
 ## FEX Memory Imager  
 Website: https://getdataforensics.com  
@@ -56,14 +56,14 @@ Description: Memory Acquisition Tool
 Author: GetData Forensics  
 License: Free  
 Version: 1.10  
-Notes:  
+Notes:   
   
 ## fit - Freezing Internet Tool  
 Website: https://github.com/fit-project/fit  
 Description: Tool to forensically acquire web-based content like emails, social media, etc.  
 Author: https://github.com/orgs/fit-project/people  
 License: GNU General Public License v3 (https://github.com/fit-project/fit/blob/main/LICENSE)  
-Version: 2.0.0  
+Version: 1.2.0  
 Notes: Requires npcap  
   
 ## FTK Imager  
@@ -72,7 +72,7 @@ Description: Forensic Image Acquisition and Triage tool
 Author: Exterro Inc / AccessData  
 License: EULA  
 Version: 4.7.1.2  
-Notes:  
+Notes:   
   
 ## Magnet Acquire  
 Website: https://www.magnetforensics.com  
@@ -80,7 +80,7 @@ Description: Evidence Acquisition tool
 Author: Jad Saliba - Magnet Forensics  
 License: EULA  
 Version: 2.74.0.39439  
-Notes:  
+Notes:   
   
 ## Magnet AXIOM  
 Website: https://www.magnetforensics.com  
@@ -88,15 +88,15 @@ Description: Evidence Acquisition and Analysis toolset
 Author: Jad Saliba - Magnet Forensics  
 License: EULA  
 Version: 6.11.0.34807  
-Notes:  
-
+Notes:   
+  
 ## Magnet Chromebook Acquisition  
 Website: https://www.magnetforensics.com  
 Description: Evidence Acquisition for Chromebook  
 Author: Jad Saliba - Magnet Forensics  
 License: EULA  
 Version: 1.06  
-Notes:  
+Notes:   
   
 ## Magnet DumpIt  
 Website: https://www.magnetforensics.com  
@@ -104,7 +104,7 @@ Description: Windows Memory Dump tools from Comae / Magnet
 Author: Magnet Forensics  
 License: EULA  
 Version: 20230117  
-Notes:  
+Notes:   
   
 ## Magnet RAM Capture (MRC)  
 Website: https://magnetforensics.com  
@@ -112,7 +112,7 @@ Description: Windows memory capture utility
 Author: Magnet Forensics  
 License: EULA  
 Version: 1.2.0  
-Notes:  
+Notes:   
   
 ## Magnet RESPONSE  
 Website: https://magnetforensics.com  
@@ -120,16 +120,15 @@ Description: Tool to collect data relevant to incident response investigations
 Author: Magnet Forensics  
 License: EULA  
 Version: 1.71  
-Notes:  
+Notes:   
   
 ## OSFMount  
 Website: https://www.osforensics.com/tools/mount-disk-images.html  
 Description: Drive / Disk / Image mounting tool  
-Category: Acquisition and Analysis  
 Author: PassMark  
 License: Free (EULA, contained in software)  
 Version: 3.1.1003.0  
-Notes:  
+Notes:   
   
 ## Pilfer  
 Website: https://github.com/digitalsleuth/forensics_tools  
@@ -153,7 +152,7 @@ Description: Disk / Device Imager
 Author: OpenText  
 License: EULA  
 Version: 20.3.3  
-Notes:  
+Notes:   
   
 ## winpmem  
 Website: https://github.com/velocidex/WinPmem  
@@ -161,7 +160,7 @@ Description: Memory Acquisition Tool
 Author: Mike Cohen (scudette)  
 License: Apache License v2 (https://github.com/Velocidex/WinPmem/blob/master/LICENSE)  
 Version: 4.0.rc2  
-Notes:  
+Notes:   
   
 ## X-Ways Forensics  
 Website: https://x-ways.net  
@@ -169,36 +168,36 @@ Description: Forensic Analysis Software
 Author: Stefan Fleischmann  
 License: License Dependent - https://www.x-ways.net/terminology.html  
 Version: 21.3  
-Notes:  
+Notes:   
   
 ## X-Ways Forensics Templates  
 Website: https://github.com/digitalsleuth/xways-templates  
 Description: Templates for X-Ways Templates  
 Author: Community Driven (multiple authors)  
-License:  
+License:   
 Version: 0.0.2  
-Notes:  
+Notes:   
   
 # Browsers  
 Web browsers  
-  
-## Chrome  
-Website: https://www.google.com  
-Description: Google Web Browser  
-Author: Google  
-License: https://policies.google.com/terms  
-Version: 108.0.5359.72  
-Notes:  
-  
+
 ## Firefox  
 Website: https://www.mozilla.org/en-US/firefox/new/  
 Description: Mozilla web browser  
 Author: Mozilla Foundation  
 License: Mozilla Public License 2.0 (https://www.mozilla.org/en-US/MPL/)  
 Version: 118.0.1  
-Notes:  
+Notes:   
   
-# Databases
+## Google Chrome  
+Website: https://www.google.com  
+Description: Google Web Browser  
+Author: Google  
+License: https://policies.google.com/terms  
+Version: 108.0.5359.72  
+Notes:   
+  
+# Databases  
 Database browsers  
 
 ## DB Browser for SQLite  
@@ -223,7 +222,7 @@ Description: SQL Database analysis tool
 Author: Richardson Software LLC  
 License: https://razorsql.com/license.txt  
 Version: 10.4.5  
-Notes:  
+Notes:   
   
 ## SQLiteStudio  
 Website: https://sqlitestudio.pl/  
@@ -250,15 +249,15 @@ Description: Tool for analysing EXIF data from files
 Author: Phil Harvey  
 License: https://exiftool.org/#license  
 Version: 12.89  
-Notes:  
+Notes:   
   
-## ExifToolGui  
+## exiftoolgui  
 Website: https://exiftool.org  
 Description: Graphical EXIF analysis tool  
 Author: Phil Harvey  
 License: https://exiftool.org/#license  
 Version: 5.16  
-Notes:  
+Notes:   
   
 ## Libre Office  
 Website: https://www.libreoffice.org  
@@ -289,7 +288,7 @@ Website: https://notepad-plus-plus.org
 Description: Free source code / text editor  
 Author: Don Ho  
 License: GNU General Public License 2.0 (https://notepad-plus-plus.org/)  
-Version: 8.7  
+Version: 8.7.1  
 Notes:   
   
 ## OfficeMalScanner  
@@ -339,14 +338,6 @@ Author: Vesselin Bontchev
 License: GNU General Public License v3 (https://github.com/bontchev/pcodedmp/blob/master/LICENSE)  
 Version: 1.2.6  
 Notes:   
-
-## pdfid  
-Website: https://github.com/didierstevens/didierstevenssuite  
-Description: PDF Analysis Tool  
-Author: Didier Stevens  
-License: Public Domain  
-Version: 0.2.8  
-Notes:   
   
 ## pdf-parser  
 Website: https://github.com/didierstevens/didierstevensssuite  
@@ -355,7 +346,15 @@ Author: Didier Stevens
 License: Public Domain  
 Version: 0.7.9  
 Notes:   
-
+  
+## pdfid  
+Website: https://github.com/didierstevens/didierstevenssuite  
+Description: PDF Analysis Tool  
+Author: Didier Stevens  
+License: Public Domain  
+Version: 0.2.8  
+Notes:   
+  
 ## PDFStream Dumper  
 Website: http://sandsprite.com/blogs/index.php?uid=7&pid=57  
 Description: PDF Analysis tool  
@@ -370,7 +369,7 @@ Description: PDF analysis and malicious code analyzer.
 Author: Jose Miguel Esparza and Corey Forman  
 License: GNU General Public License (GPL) v3: https://github.com/digitalsleuth/peepdf-3/blob/main/COPYING  
 Version: 4.0.0  
-Notes:  
+Notes:   
   
 ## rtfdump.py  
 Website: https://github.com/didierstevens/didierstevenssuite  
@@ -387,7 +386,7 @@ Author: Sublime HQ Pty Ltd
 License: EULA (https://www.sublimehq.com/eula)  
 Version: 4152  
 Notes:   
-
+  
 ## VSCode (Visual Studio Code)  
 Website: https://code.visualstudio.com/  
 Description: Open Source Code Editor and Debugger  
@@ -413,7 +412,7 @@ Description: Email forensics utility
 Author: 4n6 Software  
 License: https://forensiksoft.com/terms/  
 Version: 7.5  
-Notes:  
+Notes:   
   
 ## Aid4Mail  
 Website: https://www.aid4mail.com  
@@ -429,7 +428,7 @@ Description: EML file viewer
 Author: BitRecover  
 License: EULA - https://www.bitrecover.com/terms.html  
 Version: 5.0  
-Notes:  
+Notes:   
   
 ## Email Header Analyzer  
 Website: https://github.com/cyberdefenders/email-header-analyzer  
@@ -437,15 +436,23 @@ Description: Python-based Email Header Analysis Tool
 Author: Ahmed Shawky (lnxg33k)  
 License: GNU General Public License v3.0 (https://github.com/cyberdefenders/email-header-analyzer/blob/master/LICENSE.md)  
 Version: v1  
-Notes:  
+Notes:   
   
-## Forensic Email Collector (FEC)  
+## Forensic Email Collector  
 Website: https://metaspike.com  
 Description: Local and Remote email acquisition tool  
 Author: Arman Gungor - Metaspike  
-License:  
-Version: 4.0.238.274  
-Notes:  
+License:   
+Version: 3.87.0.6  
+Notes:   
+  
+## Forensic Email Collector  
+Website: https://metaspike.com  
+Description: Local and Remote email acquisition tool  
+Author: Arman Gungor - Metaspike  
+License:   
+Version: 4.0.280.1246  
+Notes:   
   
 ## Kernel EDB Viewer  
 Website: https://www.nucleustechnologies.com  
@@ -456,16 +463,16 @@ Version: 15.9
 Notes:   
   
 ## Kernel OST Viewer  
-Website: https://www.nucleustechnologies.com                               
-Description: Free Outlook OST viewer       
+Website: https://www.nucleustechnologies.com  
+Description: Free Outlook OST viewer  
 Author: Nucleus Technologies  
 License: EULA (https://www.nucleustechnologies.com/eula.pdf)  
 Version: 21.1  
 Notes:   
   
 ## Kernel PST Viewer  
-Website: https://www.nucleustechnologies.com                               
-Description: Free Outlook PST viewer       
+Website: https://www.nucleustechnologies.com  
+Description: Free Outlook PST viewer  
 Author: Nucleus Technologies  
 License: EULA (https://www.nucleustechnologies.com/eula.pdf)  
 Version: 20.3  
@@ -474,11 +481,10 @@ Notes:
 ## MSG Viewer  
 Website: https://www.pstwalker.com/  
 Description: Forensic GUI Tool for MSG, EML  
-Category: Email  
 Author: PST Walker  
 License: GNU General Public License (GPL) (https://www.pstwalker.com/licensing-policy.html)  
-Version: 4.30  
-Notes:  
+Version: 4.32  
+Notes:   
   
 ## PST Walker  
 Website: https://www.pstwalker.com/  
@@ -486,8 +492,8 @@ Description: Forensic GUI Tool for PST, OST
 Author: PST Walker  
 License: GNU General Public License (GPL) (https://www.pstwalker.com/licensing-policy.html)  
 Version: 7.29  
-Notes:  
-
+Notes:   
+  
 ## SysTools Outlook PST Viewer  
 Website: https://www.systoolsgroup.com  
 Description: Outlook PST file parser  
@@ -506,7 +512,7 @@ Author: Rohitab Batra
 License:   
 Version: v2r13  
 Notes:   
-
+  
 ## Bintext  
 Website: https://mcafee.com  
 Description: Finds Ascii, Unicode, and Resource strings in a file  
@@ -538,7 +544,7 @@ Author: Rizin Organization
 License: GNU General Public License v3 (https://github.com/rizinorg/cutter/blob/dev/COPYING)  
 Version: 2.3.2  
 Notes:   
-
+  
 ## Decompyle3  
 Website: https://github.com/rocky/python-decompile3/  
 Description: Python3 bytecode decompiler  
@@ -553,7 +559,7 @@ Description: Tool to identify entropy within files
 Author: Christian Wojner / CERT.at (https://cert.at/en/about-us/overview/)  
 License: Internet Software Consortium License (ISCL - https://cert.at/en/downloads/software/software-densityscout)  
 Version: Build 45  
-Notes:  
+Notes:   
   
 ## DIE (Detect It Easy)  
 Website: https://github.com/horsicq/DIE-engine  
@@ -561,8 +567,8 @@ Description: Reverse Engineering Engine
 Author: Hors (horsicq)  
 License: MIT License (https://github.com/horsicq/DIE-engine/blob/master/LICENSE)  
 Version: 3.08  
-Notes: Detect It Easy - DIE   
-
+Notes: Detect It Easy - DIE  
+  
 ## dotPeek  
 Website: https://www.jetbrains.com  
 Description: .NET Decompiler and Assembly Browser  
@@ -570,7 +576,7 @@ Author: JetBrains
 License: EULA (https://www.jetbrains.com/legal/docs/toolbox/license_personal/)  
 Version: 2023.2.2  
 Notes:   
-
+  
 ## exeinfope  
 Website: https://github.com/ExeinfoASL/ASL  
 Description: EXE, Packer, Compiler detection  
@@ -594,7 +600,7 @@ Author: Mandiant
 License: Apache License v2.0 (https://github.com/mandiant/flare-floss/blob/master/LICENSE.txt)  
 Version: 2.3.0  
 Notes:   
-
+  
 ## hollows_hunter  
 Website: https://github.com/hasherezade/hollows_hunter  
 Description: Scans running processes for implants and dumps them if found  
@@ -609,7 +615,7 @@ Description: Binary analysis tool for x86/x64 applications
 Author: hex-rays  
 License: Free for Educational, Personal, and non-Commercial use  
 Version: 8.3  
-Notes:  
+Notes:   
   
 ## ilspy  
 Website: https://github.com/icsharpcode/ilspy  
@@ -617,7 +623,7 @@ Description: .NET Decompiler
 Author: ICSharpCode (https://github.com/orgs/icsharpcode/people)  
 License: MIT License (https://github.com/icsharpcode/ILSpy/blob/master/doc/ILSpyAboutPage.txt)  
 Version: 8.1.1.7464  
-Notes:  
+Notes:   
   
 ## KsDumper 11  
 Website: https://github.com/mastercodeon314/KsDumper-11  
@@ -625,7 +631,7 @@ Description: Kernel Space Dumper utility
 Author: mastercodeon314  
 License: None at this time  
 Version: 1.0  
-Notes:  
+Notes:   
   
 ## MagnetProcessCapture  
 Website: https://magnetforensics.com  
@@ -633,14 +639,22 @@ Description: Tool to dump a running process
 Author: Magnet Forensics  
 License: EULA  
 Version: v13  
-Notes:  
-
+Notes:   
+  
+## mal_unpack  
+Website: https://github.com/hasherezade/mal_unpack  
+Description: Dynamic unpacker based on PE-sieve  
+Author: hasherezade  
+License: BSD 2-Clause Simplified License (https://github.com/hasherezade/mal_unpack/blob/master/LICENSE)  
+Version: 0.9.7  
+Notes:   
+  
 ## MalCat  
 Website: https://malcat.fr  
 Description: Malware Analysis Tool  
 Author: Malcat EL  
 License: https://malcat.fr/index.html#faq6  
-Version: 0.9.7  
+Version: 0.9.8  
 Notes:   
   
 ## maldump  
@@ -649,14 +663,6 @@ Description: Python 3 tool for extracting quarantined files from a live system o
 Author: Czech Republic National Cyber and Information Security Agency  
 License: https://github.com/NUKIB/maldump/blob/main/LICENSE  
 Version: 0.4.0  
-Notes:  
-  
-## mal_unpack  
-Website: https://github.com/hasherezade/mal_unpack  
-Description: Dynamic unpacker based on PE-sieve  
-Author: hasherezade  
-License: BSD 2-Clause Simplified License (https://github.com/hasherezade/mal_unpack/blob/master/LICENSE)  
-Version: 0.9.7  
 Notes:   
   
 ## Noriben  
@@ -682,14 +688,6 @@ Author: hasherezade
 License: GNU General Public License v2 (https://github.com/hasherezade/pe-bear/blob/main/LICENSE)  
 Version: 0.6.7.3  
 Notes:   
-
-## PEiD  
-Website: https://github.com/wolfram77web/app-peid  
-Description: Portable Executable identifier  
-Author: snaker / Qwerton / Jibz  
-License: All Rights Reserved  
-Version: 0.95  
-Notes:   
   
 ## pe-sieve  
 Website: https://github.com/hasherezade/pe-sieve  
@@ -698,7 +696,15 @@ Author: hasherezade
 License: BSD 2-Clause Simplified License (https://github.com/hasherezade/pe-sieve/blob/master/LICENSE)  
 Version: 0.3.9  
 Notes:   
-
+  
+## PEiD  
+Website: https://github.com/wolfram77web/app-peid  
+Description: Portable Executable identifier  
+Author: snaker / Qwerton / Jibz  
+License: All Rights Reserved  
+Version: 0.95  
+Notes:   
+  
 ## PEStudio  
 Website: https://www.winitor.com  
 Description: PE Analysis Tool  
@@ -713,7 +719,7 @@ Description: PE Analysis toolkit
 Author: Fernando Merces  
 License: GNU General Public License v2.0 (https://github.com/mentebinaria/readpe/blob/master/LICENSE)  
 Version: 0.82  
-Notes:  
+Notes:   
   
 ## PortexAnalyzer GUI  
 Website: https://github.com/struppigel/PortexAnalyzerGUI  
@@ -721,7 +727,7 @@ Description: GUI for PortEx, a Portable Executable and Malware Analysis Library
 Author: Karsten Hahn  
 License: Apache License 2.0 (https://github.com/struppigel/PortexAnalyzerGUI/blob/main/LICENSE)  
 Version: 0.12.12  
-Notes:  
+Notes:   
   
 ## PPEE (puppy)  
 Website: https://www.mzrst.com/  
@@ -730,7 +736,7 @@ Author: Zaderostam
 License:   
 Version: 1.12  
 Notes:   
-
+  
 ## ProcDOT  
 Website: https://www.procdot.com  
 Description: Visual analysis of Windows-based malware  
@@ -761,7 +767,7 @@ Description: Hex Editor with useful tools for Reverse Engineering
 Author: Daniel Collins  
 License: GNU General Public License v2 (https://github.com/solemnwarning/rehex/blob/master/LICENSE.txt)  
 Version: 0.60.1  
-Notes:  
+Notes:   
   
 ## Resource Hacker  
 Website: http://www.angusj.com/resourcehacker  
@@ -789,7 +795,7 @@ Notes: May not work well on later versions of Windows 10 and any version of Wind
   
 ## setdllcharacteristics  
 Website: https://blog.didierstevens.com/2010/10/17/setdllcharacteristics/  
-Description: Manually edit the characteristics of DLL's   
+Description: Manually edit the characteristics of DLL's  
 Author: Didier Stevens  
 License: Public Domain  
 Version: 0.0.0.1  
@@ -801,7 +807,7 @@ Description: PE Viewer
 Author: Pavel Yosifovich  
 License: MIT License (https://github.com/zodiacon/TotalPE2/blob/master/LICENSE.txt)  
 Version: 0.6.5.1  
-Notes:  
+Notes:   
   
 ## TrID  
 Website: https://mark0.net/soft-trid-e.html  
@@ -809,7 +815,7 @@ Description: File identifier based on their binary signatures
 Author: Marco Pontello  
 License: Free for personal / non-commercial use  
 Version: 2.2.4  
-Notes:  
+Notes:   
   
 ## UPX  
 Website: https://github.com/upx/upx  
@@ -826,14 +832,14 @@ Author: DotFix Software
 License: https://www.vb-decompiler.org/license.htm  
 Version: 12.4  
 Notes:   
-
+  
 ## WinDbg  
 Website: https://www.microsoft.com  
 Description: Windows Debugger  
 Author: Microsoft  
-License: Third-party notices within app  
+License: Third-party Notices within app  
 Version: 1.2402.24001.0  
-Notes: Installed via winget  
+Notes: retcode 2316632107 means no available upgrades  
   
 ## Windows Sandbox  
 Website: https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview  
@@ -842,13 +848,13 @@ Author: Microsoft
 License:   
 Version: 10.0.19041.985  
 Notes:   
-
+  
 ## x64dbg  
 Website: https://sourceforge.net/projects/x64dbg/  
 Description: Open Source x64/x32 debugger for Windows  
 Author: Duncan Ogilvie (mrexodia)  
 License: GNU General Public License v3 (https://github.com/x64dbg/x64dbg/blob/development/LICENSE)  
-Version: 2024-10-18_19-09  
+Version: 2024-12-01_15-19  
 Notes:   
   
 # Installers  
@@ -857,7 +863,7 @@ Decompile and deconstruct installers
 ## AutoIt Extractor  
 Website: https://github.com/digitalsleuth/autoit-extractor  
 Description: AutoIt installer extractor  
-Author: x0r19x91   
+Author: x0r19x91  
 License: GNU General Public License v3.0  
 Version: 1.0.0  
 Notes:   
@@ -907,7 +913,15 @@ Website: https://github.com/extremecoders-re/pyinstxtractor
 Description: Python script to extract contents of PyInstallers  
 Author: ExtremeCoders-RE  
 License: GNU General Public License v3.0 (https://github.com/extremecoders-re/pyinstxtractor/blob/master/LICENSE)  
-Version: 2024.04  
+Version: 2024.11  
+Notes: Release version does not update with script  
+  
+## PyInstaller Extractor NG  
+Website: https://github.com/pyinstxtractor/pyinstxtractor-ng  
+Description: A standalone executable to extract the contents of PyInstaller packages  
+Author: ExtremeCoders-RE  
+License: GNU General Public License v3.0 (https://github.com/pyinstxtractor/pyinstxtractor-ng/blob/main/LICENSE)  
+Version: 2024.08.25  
 Notes:   
   
 ## UnAutoIt  
@@ -928,14 +942,22 @@ Notes:
   
 # Logs  
 Event and Web log analysis  
-  
+
 ## Chainsaw  
 Website: https://github.com/WithSecureLabs/Chainsaw  
 Description: Event Log and Windows Artefact Parser  
 Author: WithSecureLabs / Countercept  
 License: GNU General Public License v3.0 (https://github.com/WithSecureLabs/chainsaw/blob/master/LICENCE)  
 Version: 2.8.1  
-Notes:  
+Notes:   
+  
+## Event Log Explorer  
+Website: https://eventlogxp.com/  
+Description: Windows Event Log Parser  
+Author: FSPro  
+License: Multiple (https://eventlogxp.com/order.html)  
+Version: 5.6  
+Notes:   
   
 ## EventFinder  
 Website: https://github.com/BeanBagKing/EventFinder2  
@@ -945,14 +967,6 @@ License: GNU General Public License v3 (https://github.com/BeanBagKing/EventFind
 Version: 2.2.1  
 Notes:   
   
-## Event Log Explorer  
-Website: https://eventlogxp.com/  
-Description: Windows Event Log Parser  
-Author: FSPro  
-License: Multiple (https://eventlogxp.com/order.html)  
-Version: 5.6  
-Notes: 30 Day Trial  
-  
 ## evtx_dump  
 Website: https://github.com/omerbenamram/evtx  
 Description: EVTX Event Log Parser  
@@ -961,13 +975,13 @@ License: Apache License v2 (https://github.com/omerbenamram/evtx/blob/master/LIC
 Version: 0.8.3  
 Notes:   
   
-## Hayabusa 
+## Hayabusa  
 Website: https://github.com/Yamato-Security/hayabusa  
 Description: Windows event log fast forensics timeline generator and threat hunting tool  
 Author: Yamato Security  
 License: GNU General Public License v3.0 (https://github.com/Yamato-Security/hayabusa/blob/main/LICENSE.txt)  
 Version: 2.9.0  
-Notes:  
+Notes:   
   
 ## HttpLogBrowser  
 Website: https://www.finalanalytics.com/products/httplogbrowser  
@@ -1007,7 +1021,7 @@ Description: SIGMA-based detection for EVTX, Auditd and Sysmon for Linux
 Author: Wagga (wagga40)  
 License: GNU Lesser Public License v3.0 (https://github.com/wagga40/Zircolite#license)  
 Version: 2.10.0  
-Notes:  
+Notes:   
   
 # Mobile Analysis  
 Analysis of mobile devices and applications  
@@ -1016,18 +1030,17 @@ Analysis of mobile devices and applications
 Website: https://github.com/abrignoni/aleapp  
 Description: Android Logs Events and Protobuf Parser  
 Author: Alexis Brignoni  
-License: MIT License (https://github.com/abrignoni/ALEAPP/blob/master/LICENSE)  
+License: MIT License (https://github.com/abrignoni/ALEAPP/blob/main/LICENSE)  
 Version: 3.1.1  
 Notes:   
   
 ## Android Studio and SDK  
 Website: https://developer.android.com/  
 Description: Tools for debugging and accessing an Android device  
-Category: Mobile Analysis  
 Author: Google  
-License:  
-Version: 2023.1.1.27  
-Notes: Comes with adb and fastboot  
+License:   
+Version: 2023.2.1.23  
+Notes: Comes with adb and fastboot, error code 1223 does not represent error - marked as success.  
   
 ## apktool  
 Website: https://apktool.org/  
@@ -1058,14 +1071,14 @@ Website: https://www.imactools.com
 Description: View iDevice backups on Windows  
 Author: iMacTools  
 License: Free (No specific license)  
-Version: 4.27.30.0  
-Notes:  
+Version: 4.27.30  
+Notes:   
   
 ## ILEAPP  
 Website: https://github.com/abrignoni/ileapp  
 Description: iOS Logs Events and Plists Parser  
 Author: Alexis Brignoni  
-License: MIT License (https://github.com/abrignoni/iLEAPP/blob/master/LICENSE)  
+License: MIT License (https://github.com/abrignoni/iLEAPP/blob/main/LICENSE)  
 Version: 1.18.1  
 Notes:   
   
@@ -1107,7 +1120,7 @@ Description: Tool to mirror and graphically control Android devices over USB or 
 Author: Genymobile  
 License: Apache License 2.0 (https://github.com/Genymobile/scrcpy/blob/master/LICENSE)  
 Version: 2.1.1  
-Notes:  
+Notes:   
   
 ## UFADE (Universal Forensic Apple Device Extractor)  
 Website: https://github.com/prosch88/UFADE  
@@ -1115,7 +1128,7 @@ Description: Standalone tool to extract data from Apple Devices
 Author: prosch88  
 License: GNU General Public License 3 (https://github.com/prosch88/UFADE/blob/main/LICENSE)  
 Version: 0.9.4  
-Notes:  
+Notes:   
   
 ## VLEAPP  
 Website: https://github.com/abrignoni/vleapp  
@@ -1134,7 +1147,7 @@ Description: Packet Intercept and Analysis Tool
 Author: PortSwigger  
 License: https://portswigger.net/burp/tc-community  
 Version: 2024.4.4  
-Notes:  
+Notes:   
   
 ## Fakenet-NG  
 Website: https://github.com/mandiant/flare-fakenet-ng  
@@ -1150,7 +1163,7 @@ Description: Command Line Interface for the IPinfo API
 Author: https://github.com/orgs/ipinfo/people  
 License: Apache License v2.0 (https://github.com/ipinfo/cli/blob/master/LICENSE)  
 Version: 3.2.0  
-Notes:  
+Notes:   
   
 ## NAFT - Network Appliance Forensic Toolkit  
 Website: https://github.com/digitalsleuth/naft  
@@ -1166,7 +1179,7 @@ Description: Network traffic analysis tool
 Author: NETRESEC AB  
 License: GNU General Public License (GPL) v2.0 (https://www.netresec.com/?page=NetworkMinerSourceCode)  
 Version: 2.9  
-Notes:  
+Notes:   
   
 ## PuTTY  
 Website: https://www.chiark.greenend.org.uk/~sgtatham/putty/  
@@ -1190,7 +1203,7 @@ Description: Creates an HTML report containing a snapshot of each webpage at a s
 Author: Magnet Forensics  
 License: EULA  
 Version: 3.4.0  
-Notes:  
+Notes:   
   
 ## WinSCP  
 Website: https://winscp.net/  
@@ -1198,7 +1211,7 @@ Description: Windows SFTP and SCP Client
 Author: Martin Prikryl  
 License: GNU General Public License v3 (https://github.com/winscp/winscp/blob/master/license.txt)  
 Version: 6.1.2  
-Notes:  
+Notes:   
   
 ## Wireshark  
 Website: https://www.wireshark.org  
@@ -1214,11 +1227,11 @@ Description: Network Forensic GUI Tool using Zeek, Suricata and Zed
 Author: Brim Data  
 License: GNU General Public License (GPL) (https://github.com/brimdata/zui/blob/main/apps/zui/LICENSE.txt)  
 Version: 1.3.0  
-Notes: Zui is the renamed version of Brim  
+Notes:   
   
 # Raw Parsers / Decoders  
 Basic tools for byte-level analysis of data blobs  
-  
+
 ## Bulk Extractor  
 Website: https://digitalcorpora.org/downloads/bulk_extractor & https://github.com/simsong/bulk_extractor  
 Description: Tool for extracting artifacts from random data  
@@ -1232,7 +1245,7 @@ Website: https://github.com/gchq/cyberchef
 Description: Web app for encryption, encoding, compression and data analysis  
 Author: GCHQ  
 License: Apache License v2.0 (https://github.com/gchq/CyberChef/blob/master/LICENSE)  
-Version: 10.18.3  
+Version: 10.19.4  
 Notes:   
   
 ## Data Dump  
@@ -1257,7 +1270,7 @@ Description: Portable command-line utility to decode file types
 Author: Jason Summers  
 License: MIT (https://github.com/jsummers/deark/blob/master/COPYING)  
 Version: 1.6.7  
-Notes:  
+Notes:   
   
 ## DROID  
 Website: https://www.nationalarchives.gov.uk/information-management/manage-information/preserving-digital-records/droid/  
@@ -1275,17 +1288,17 @@ License: EULA (https://www.hhdsoftware.com/company/terms-of-use)
 Version: 7.46.00.8715  
 Notes:   
   
-## HxD   
+## HxD  
 Website: https://mh-nexus.de  
 Description: Hex Editor  
 Author: Mael Horz  
 License: https://mh-nexus.de/en/about.php  
 Version: 2.5.0.0  
-Notes:  
+Notes:   
   
 ## iptools  
 Website: https://github.com/digitalsleuth/forensics_tools  
-Description: IP / Hex / Dec Conversion tool   
+Description: IP / Hex / Dec Conversion tool  
 Author: Corey Forman  
 License: GNU General Public License v3.0 (https://github.com/digitalsleuth/forensics_tools/blob/master/LICENSE)  
 Version: 1.1  
@@ -1305,15 +1318,15 @@ Description: Powershell script utilizing MemProcFS for additional analysis
 Author: Martin Willing / evild3ad  
 License: GNU General Public License v3.0 (https://github.com/evild3ad/MemProcFS-Analyzer/blob/main/LICENSE)  
 Version: 1.0  
-Notes:  
+Notes:   
   
 ## Passware Encryption Analyzer  
 Website: https://www.passware.com  
-Description: Encryption detection tool for various file types  
+Description: Encryption Analysis tool  
 Author: Passware - Dmitry Sumin  
-License: EULA (https://support.passware.com/hc/en-us/articles/221742768-What-are-the-terms-of-the-end-user-license-agreement-for-Passware-software-)  
+License: EULA - https://www.passware.com/files/Passware-EULA.pdf  
 Version: 2024.4.0.4328  
-Notes:  
+Notes:   
   
 ## photorec / testdisk  
 Website: https://www.cgsecurity.org/  
@@ -1321,23 +1334,23 @@ Description: Raw data parsing tool
 Author: Christophe Grenier  
 License: GNU General Public License v2.0 (https://git.cgsecurity.org/cgit/testdisk/tree/COPYING)  
 Version: 7.1  
-Notes:  
+Notes:   
   
 ## pyson4  
 Website: https://github.com/digitalsleuth/pyson4  
-Description: A jsonlz4 file parser for Firefox  
+Description: A python3 jsonlz4 file parser for Firefox  
 Author: Corey Forman  
 License: GNU General Public License v3 (https://github.com/digitalsleuth/pyson4/blob/master/LICENSE)  
 Version: 1.2  
 Notes: pyson4, pyson4.py  
-    
+  
 ## smi-parser  
 Website: https://github.com/digitalsleuth/smi-parser  
 Description: Parses Caroolive SMI GPS files  
 Author: Corey Forman  
 License: GNU General Public License v3.0 (https://github.com/digitalsleuth/smi-parser/blob/main/LICENSE)  
 Version: 1.1.0  
-Notes: Available, but not installed by default  
+Notes:   
   
 ## synchrony  
 Website: https://github.com/relative/synchrony  
@@ -1347,6 +1360,14 @@ License: GNU General Public License v3 (https://github.com/relative/synchrony/bl
 Version: 2.4.5  
 Notes: Requires nodejs to install, command is 'synchrony'  
   
+## Time Decode GUI  
+Website: https://github.com/digitalsleuth/time_decode  
+Description: Python 3 timestamp decode / encode tool - Standalone executable GUI  
+Author: Corey Forman  
+License: MIT License (https://github.com/digitalsleuth/time_decode/blob/master/LICENSE)  
+Version: 8.0.0  
+Notes:   
+  
 ## time-decode  
 Website: https://github.com/digitalsleuth/time_decode  
 Description: Python timestamp encode / decode utility  
@@ -1354,14 +1375,6 @@ Author: Corey Forman
 License: MIT License (https://github.com/digitalsleuth/time_decode/blob/master/LICENSE)  
 Version: 8.0.0  
 Notes:   
-  
-## Time Decode GUI  
-Website: https://github.com/digitalsleuth/time_decode  
-Description: Python 3 timestamp decode / encode tool - Standalone executable GUI  
-Author: Corey Forman  
-License: MIT License (https://github.com/digitalsleuth/time_decode/blob/master/LICENSE)  
-Version: 8.0.0  
-Notes:  
   
 ## yara-python  
 Website: https://github.com/VirusTotal/yara-python  
@@ -1374,21 +1387,13 @@ Notes:
 # Registry  
 Analysis of Windows registry artifacts  
 
-## Registry Explorer  
-Website: https://ericzimmerman.github.io  
-Description: Registry analysis tool (part of EZ Tools / Zimmerman Tools)  
-Author: Eric Zimmerman  
-License: MIT License (https://github.com/EricZimmerman/Issues/blob/master/LICENSE)  
-Version: 2.0.0.0  
-Notes:   
-
 ## Registry Viewer  
 Website: https://exterro.com  
 Description: Windows Registry hive viewer  
 Author: AccessData / Exterro  
 License: EULA  
 Version: 2.0.0.7  
-Notes: Installable, but not currently installed - no longer supported  
+Notes:   
   
 ## regripper  
 Website: https://github.com/keydet89/RegRipper3.0  
@@ -1397,25 +1402,196 @@ Author: Harlan Carvey
 License: MIT License (https://github.com/keydet89/RegRipper3.0/blob/master/license.md)  
 Version: 3.0  
 Notes: rr.exe  
-
+  
 ## regshot  
 Website: https://sourceforge.net/projects/regshot/  
 Description: Registry snapshot utility to compare snapshots  
 Author: maddes, regshot, xhmikosr  
 License: GNU Lesser General Public License (https://sourceforge.net/p/regshot/code/HEAD/tree/branches/1.9.0/files/license_lgpl-2.1.txt)  
 Version: 1.9.0  
-Notes:  
+Notes:   
+  
+# Requirements  
+Applications required to make everything else work  
+
+## .NET 3.5 Framework  
+Website: https://download.visualstudio.microsoft.com/download/pr/b635098a-2d1d-4142-bef6-d237545123cb/2651b87007440a15209cac29634a4e45/dotnetfx35.exe  
+Description: Microsoft .NET 3.5 Framework with .NET 2.0  
+Author: Microsoft  
+License:   
+Version: .NET 3.5 SP1  
+Notes:   
+  
+## .NET 6 Desktop Runtime  
+Website: https://microsoft.com  
+Description: Windows Runtime component  
+Author: Microsoft  
+License: EULA  
+Version: 6.0.7.31422  
+Notes:   
+  
+## 7-Zip  
+Website: https://7-zip.org  
+Description: Zip Compiler and Extractor  
+Author: Igor Pavlov  
+License: GNU LGPL (https://www.7-zip.org/faq.html)  
+Version: 24.06  
+Notes:   
+  
+## Adobe Reader DC Classic  
+Website: https://www.adobe.com  
+Description: Adobe PDF Document Reader  
+Author: Adobe  
+License: https://helpx.adobe.com/ca/reader/acrobat-copyright-trademarks-third-party-notices.html  
+Version: 24.002.20749  
+Notes:   
+  
+## Elasticsearch  
+Website: https://www.elastic.co  
+Description: Distributed, RESTful, and optimized search engine for applications  
+Author: Elastic  
+License: Server Side Public License / Elastic License 2.0 / Apache License 2.0 (https://github.com/elastic/elasticsearch/blob/main/LICENSE.txt)  
+Version: 8.11.1  
+Notes:   
+  
+## Git for Windows  
+Website: https://github.com/git-for-windows/git  
+Description: Version Control System for Windows  
+Author: Git (git-scm.com)  
+License: GNU Public License and Lesser GNU Public License (https://github.com/git-for-windows/git/blob/main/COPYING, https://github.com/git-for-windows/git/blob/main/LGPL-2.1)  
+Version: 2.38.1  
+Notes:   
+  
+## Graphviz  
+Website: https://graphviz.org  
+Description: Open source graph visualization software  
+Author: https://gitlab.com/graphviz/graphviz/-/blob/main/AUTHORS  
+License: Eclipse Public License (https://gitlab.com/graphviz/graphviz/-/blob/main/LICENSE)  
+Version: 9.0.0  
+Notes:   
+  
+## Java Development Kit and Runtime Environment  
+Website: https://www.java.com  
+Description: Java Engine  
+Author: Oracle  
+License: https://www.oracle.com/legal/terms.html  
+Version: 17.0.9  
+Notes:   
+  
+## Kibana  
+Website: https://www.elastic.co  
+Description: Front end for the Elastic Stack  
+Author: Elastic  
+License: Elastic License 2.0 (https://github.com/elastic/kibana/blob/main/licenses/ELASTIC-LICENSE-2.0.txt)  
+Version: 8.11.1  
+Notes:   
+  
+## Microsoft VC++ 2010 Redistributable  
+Website: https://microsoft.com  
+Description: Microsoft Visual C++ 2010 Redistributable  
+Author: Microsoft  
+License: EULA  
+Version: 10.0.40219  
+Notes:   
+  
+## Microsoft VC++ 2015 Build Tools  
+Website: https://microsoft.com  
+Description: Microsoft Visual C++ 2015 Build Tools  
+Author: Microsoft  
+License:   
+Version: 15.9.34729.27  
+Notes:   
+  
+## Node.js  
+Website: https://nodejs.org  
+Description: Open-Source JavaScript Runtime Environment  
+Author: https://github.com/nodejs/node/blob/main/README.md#current-project-team-members  
+License: Various (https://github.com/nodejs/node/blob/main/LICENSE)  
+Version: 18.16.0  
+Notes:   
+  
+## nuget  
+Website: https://www.nuget.org/  
+Description: PowerShell Package Manager  
+Author: Microsoft  
+License: Apache v2.0 (https://github.com/NuGet/NuGet.Client/blob/dev/LICENSE.txt)  
+Version: Minimum version 2.8.5.208 is for PowerShell only.  
+Notes:   
+  
+## Portals  
+Website: https://portals-app.com  
+Description: Desktop Organizer  
+Author: Ross Patterson  
+License: Free To Use - Terms and Conditions (https://rosspat.dev/privacy/)  
+Version: 3.2.1.0  
+Notes:   
+  
+## Pycryptodome  
+Website: https://github.com/legrandin/pycryptodome  
+Description: Python package of low-level cryptographic primitives  
+Author: Helder Eijs (Legrandin)  
+License: Public Domain / BSD (https://github.com/Legrandin/pycryptodome/blob/master/LICENSE.rst)  
+Version: 3.16.0  
+Notes:   
+  
+## Python 3  
+Website: https://www.python.org  
+Description: Python Programming Language Framework  
+Author: Python Software Foundation  
+License: Python Software Foundation License Version 2.0 (https://docs.python.org/3.10/license.html)  
+Version: 3.10.1150.0  
+Notes:   
+  
+## python-dateutil  
+Website: https://github.com/dateutil/dateutil  
+Description: Python module to use standard datetime features  
+Author: https://github.com/dateutil/dateutil/blob/master/AUTHORS.md  
+License: Apache License v2.0 (https://github.com/dateutil/dateutil/blob/master/LICENSE)  
+Version: 2.8.2  
+Notes:   
+  
+## STPyV8  
+Website: https://github.com/cloudflare/stpyv8  
+Description: Python3 and JavaScript interop engine, fork of the original PyV8 project  
+Author: Area1 Security  
+License: Apache License 2.0: https://github.com/cloudflare/stpyv8/blob/master/LICENSE.txt  
+Version: 12.0.267.16  
+Notes:   
+  
+## Strawberry Perl  
+Website: https://strawberryperl.com  
+Description: Perl programming language environment for Windows  
+Author: Strawberry Perl  
+License: GNU General Public License 1+ (license found within software)  
+Version: 5.32.1.1  
+Notes:   
+  
+## Visual Studio Community Edition 2022  
+Website: https://visualstudio.microsoft.com  
+Description: Windows IDE for developing in multiple Windows-based programming languages  
+Author: Microsoft  
+License: https://aka.ms/VSLicensingPaper  
+Version: 17.0.4 (2022)  
+Notes: Installation and application are 17.0.4, but environment is 2022  
+  
+## WSL 2 System Update  
+Website: https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi  
+Description: Update for Windows Subsystem for Linux to version 2  
+Author: Microsoft  
+License: EULA  
+Version: 5.10.16  
+Notes:   
   
 # Terminals  
 Use of Linux-emulated terminals on Windows  
-  
+
 ## Cygwin  
 Website: https://cygwin.com  
 Description: Linux Terminal Emulator for Windows  
 Author: https://cygwin.com/faq.html#faq.what.who  
 License: GNU General Public License (GPL) (https://cygwin.com/licensing.html)  
 Version: 3.5.3  
-Notes: Retcode is set to '2' for success because the Cygwin installer (even though on Windows) attempts to search for /etc/setup/setup.rc or /etc/setup/installed.db and fails with retcode 2. This causes Saltstack to read an ERROR and result: False, even though the pkg state returns 'install success'.  
+Notes: Retcode below is set to '2' for success because the Cygwin installer (even though on Windows) attempts to search for /etc/setup/setup.rc or /etc/setup/installed.db and fails with retcode 2. This causes Saltstack to read an ERROR and result: False, even though the pkg state returns 'install success'.  
   
 ## MobaXterm  
 Website: https://mobaxterm.mobatek.net  
@@ -1431,26 +1607,26 @@ Description: Terminal Emulator
 Author: Microsoft  
 License: MIT License (https://github.com/microsoft/terminal/blob/main/LICENSE)  
 Version: 1.20.11781.0  
-Notes: Version depends on Windows OS version  
+Notes:   
   
 ## WSL Setup  
 Website: https://microsoft.com  
 Description: Windows Subsystem for Linux setup  
 Author: Microsoft  
 License: EULA  
-Version: 1.2.5.0  
+Version: 0.0  
 Notes:   
-
+  
 # Utilities  
 Basic utilities to assist in data analysis or transfer  
-  
+
 ## Agent Ransack  
 Website: https://www.mythicsoft.com/agentransack/  
 Description: File Search utility  
 Author: Mythicsoft  
 License: End User License Agreement  
 Version: 9.2.3435.1  
-Notes:  
+Notes:   
   
 ## Apple iTunes  
 Website: https://www.apple.com  
@@ -1458,7 +1634,7 @@ Description: Media viewer and Apple device manager
 Author: Apple  
 License: EULA  
 Version: 12.12.10.1  
-Notes: Available, but not installed by default  
+Notes:   
   
 ## Aurora Incident Response  
 Website: https://github.com/cyb3rfox/Aurora-Incident-Response  
@@ -1466,7 +1642,7 @@ Description: Incident Response Tracking tool
 Author: Mathias Fuchs  
 License: Apache License 2.0 (https://github.com/cyb3rfox/Aurora-Incident-Response/blob/master/LICENSE)  
 Version: 0.6.6  
-Notes:  
+Notes:   
   
 ## Bulk Rename Utility  
 Website: https://www.bulkrenameutility.co.uk  
@@ -1474,7 +1650,15 @@ Description: Tool to rename multiple files with similar names
 Author: TGRMN Software  
 License: EULA (https://www.bulkrenameutility.co.uk/License.php)  
 Version: 4.0.0.2  
-Notes: Available, but not installed by default  
+Notes:   
+  
+## Bulk Rename Utility  
+Website: https://www.bulkrenameutility.co.uk  
+Description: Tool to rename multiple files with similar names  
+Author: TGRMN Software  
+License: EULA (https://www.bulkrenameutility.co.uk/License.php)  
+Version: 4.0.0.2  
+Notes:   
   
 ## Caffeine  
 Website: https://www.zhornsoftware.co.uk  
@@ -1490,7 +1674,15 @@ Description: USB bootable forensic environment
 Author: Nanni Bassetti (https://www.caine-live.net/page4/page4.html)  
 License: GNU General Public License v2.1+ (https://www.caine-live.net/)  
 Version: 12.4  
-Notes: Available, but not downloaded by default  
+Notes:   
+  
+## CaseNotes Pro  
+Website: https://first-response.co.uk/  
+Description: Tool to record and track case notes  
+Author: First Response  
+License: EULA  
+Version: 2.17.8.30  
+Notes:   
   
 ## ClamAV  
 Website: https://www.clamav.net  
@@ -1498,7 +1690,7 @@ Description: Open Source Antivirus
 Author: Cisco / Talos - https://www.clamav.net/about  
 License: GNU General Public License v2.0 (https://github.com/Cisco-Talos/clamav/blob/main/COPYING.txt)  
 Version: 1.3.1  
-Notes:  
+Notes:   
   
 ## Dokany  
 Website: https://github.com/dokan-dev/dokany  
@@ -1506,7 +1698,7 @@ Description: User mode file system library for Windows
 Author: Liryna  
 License: GNU Lesser General Public License v3.0 / MIT (https://github.com/dokan-dev/dokany/blob/master/license.mit.txt / https://github.com/dokan-dev/dokany/blob/master/license.lgpl.txt)  
 Version: 2.0.6.1000  
-Notes:  
+Notes:   
   
 ## Encrypted Disk Detector (EDD)  
 Website: https://www.magnetforensics.com  
@@ -1522,7 +1714,7 @@ Description: Command-line tool to calculate entropy of a file
 Author: Fernando Merces  
 License: GNU General Public License v2.0 (https://github.com/merces/entropy/blob/master/LICENSE)  
 Version: 1.1  
-Notes:  
+Notes:   
   
 ## FastCopy  
 Website: https://fastcopy.jp  
@@ -1530,7 +1722,7 @@ Description: Fast file copy software which can retain file details
 Author: FastCopy Lab - https://fastcopy.jp/company.html  
 License: Copyright - All rights reserved - https://fastcopy.jp/help/fastcopy_eng.htm#license  
 Version: 5.8.0  
-Notes:  
+Notes:   
   
 ## Glossary Generator  
 Website: (nil - in house tool)  
@@ -1538,7 +1730,7 @@ Description: Tool to generate a glossary for forensic reports
 Author: Jad Saliba  
 License: None Provided  
 Version: 1.1  
-Notes: Available, but not installed by default  
+Notes:   
   
 ## Google Earth Pro  
 Website: https://www.google.com/earth/about/versions/?gl=CA&hl=en#download-pro  
@@ -1546,15 +1738,7 @@ Description: Tool for viewing Google Maps through installed application
 Author: Google  
 License: Terms of Service (https://www.google.com/help/terms_maps/)  
 Version: 7.3.4.8642  
-Notes: Available, but not installed by default  
-  
-## HashCheck  
-Website: https://github.com/gurnec/HashCheck  
-Description: Context-Menu / Shell Extension hash generator utility  
-Author: Christopher Gurnee / Kai Liu / David B. Trout / Tim Schlueter  
-License: https://github.com/gurnec/HashCheck/blob/master/license.txt  
-Version: 2.4.0.55  
-Notes:  
+Notes:   
   
 ## Hash Generator  
 Website: https://github.com/digitalsleuth/hash-generator  
@@ -1562,7 +1746,15 @@ Description: A simple tool for generating hash values out of provided strings
 Author: Corey Forman (digitalsleuth)  
 License: MIT License (https://github.com/digitalsleuth/hash-generator/blob/main/LICENSE)  
 Version: 1.1.0  
-Notes:  
+Notes:   
+  
+## HashCheck  
+Website: https://github.com/gurnec/HashCheck  
+Description: Context-Menu / Shell Extension hash generator utility  
+Author: Christopher Gurnee / Kai Liu / David B. Trout / Tim Schlueter  
+License: https://github.com/gurnec/HashCheck/blob/master/license.txt  
+Version: 2.4.0.55  
+Notes:   
   
 ## Hex2GUID  
 Website: (nil - in house)  
@@ -1570,7 +1762,7 @@ Description: Batch script to convert hex/on-disk GUID to GUID format
 Author: Mark Southby  
 License: Free To Use  
 Version: 2022050a  
-Notes: Available, but not installed by default  
+Notes:   
   
 ## ImportExcel  
 Website: https://github.com/dfinke/ImportExcel  
@@ -1579,14 +1771,14 @@ Author: Doug Finke
 License: Apache License v2.0 (https://github.com/dfinke/ImportExcel/blob/master/LICENSE.txt)  
 Version: 7.8.6  
 Notes: Installed directly from PSGallery  
-    
+  
 ## IrfanView x64  
 Website: https://www.irfanview.com/64bit.htm  
 Description: IrfanView image viewer and editor  
 Author: Irfan Skiljan  
 License: https://www.irfanview.com/eula.htm  
 Version: 4.62  
-Notes:  
+Notes:   
   
 ## IrfanView x64 Plugins  
 Website: https://www.irfanview.com/64bit.htm  
@@ -1594,7 +1786,7 @@ Description: IrfanView Plugins
 Author: Irfan Skiljan  
 License: https://www.irfanview.com/eula.htm  
 Version: 4.62  
-Notes:  
+Notes:   
   
 ## jq  
 Website: https://jqlang.github.io/jq  
@@ -1602,7 +1794,7 @@ Description: Command-line JSON processor
 Author: Stephen Dolan et al (https://github.com/jqlang/jq/blob/master/AUTHORS)  
 License: Multi-license (https://github.com/jqlang/jq/blob/master/COPYING)  
 Version: 1.7  
-Notes:  
+Notes:   
   
 ## megatools  
 Website: https://megatools.megous.com  
@@ -1610,7 +1802,7 @@ Description: Mega.NZ downloader suite
 Author: https://megatools.megous.com/man/megatools.html#_author  
 License: GNU General Public License v2 (https://megous.com/git/megatools/tree/LICENSE)  
 Version: 1.11.1  
-Notes:  
+Notes:   
   
 ## Microsoft PowerToys  
 Website: https://github.com/microsoft/powertoys  
@@ -1618,7 +1810,7 @@ Description: Windows productivity system utilities
 Author: Microsoft  
 License: MIT (https://github.com/microsoft/PowerToys/blob/main/LICENSE)  
 Version: 0.83.0  
-Notes:  
+Notes:   
   
 ## Monolith Notes  
 Website: https://www.monolithforensics.com/  
@@ -1626,7 +1818,7 @@ Description: Forensic note taking and tracking tool
 Author: Monolith Forensics  
 License: EULA  
 Version: 1.0.2  
-Notes:  
+Notes:   
   
 ## Nuix Evidence Mover  
 Website: https://www.nuix.com/nuix-evidence-mover  
@@ -1634,7 +1826,7 @@ Description: File Transfer tool with source and destination hashing
 Author: NUIX  
 License: https://www.oracle.com/legal/terms.html  
 Version: 6.2.1  
-Notes:  
+Notes:   
   
 ## OpenHashTab  
 Website: https://github.com/namazso/OpenHashTab  
@@ -1643,15 +1835,23 @@ Author: namazso
 License: GNU General Public License 3.0 (https://github.com/namazso/OpenHashTab/blob/master/COPYING)  
 Version: 3.0.4  
 Notes:   
-
+  
+## Reference Documentation  
+Website: SANS.org and github.com/digitalsleuth/winfor-salt  
+Description: Reference documents for tools and forensic cheatsheets  
+Author: SANS and Corey Forman  
+License:   
+Version:   
+Notes: Source https://github.com/teamdfir/sift-saltstack/blob/master/sift/config/user/pdfs.sls and WIN-FOR tool list  
+  
 ## Rufus  
 Website: https://rufus.ie  
 Description: USB ISO Creator  
 Author: Pete Batard  
 License: GNU General Public License v3 - https://github.com/pbatard/rufus/blob/master/LICENSE.txt  
 Version: 4.2  
-Notes:  
-
+Notes:   
+  
 ## Tableau Firmware Update  
 Website: https://www.opentext.com  
 Description: Firmware update utility for Tableau forensic devices  
@@ -1665,10 +1865,10 @@ Website: https://www.codesector.com/teracopy
 Description: File transfer utility for consistent and uninterrupted transfers  
 Author: Code Sector  
 License: FREEWARE (private / non-commerical)  
-Version: 3.10  
-Notes:  
+Version: 3.12  
+Notes:   
   
-## USB Write Blocker  
+## USB Registry Write Blocker  
 Website: https://github.com/digitalsleuth/registry-write-block  
 Description: USB Write Blocker for standard USB / UASP devices using Registry Modifications  
 Author: Corey Forman  
@@ -1677,10 +1877,10 @@ Version: 2.0
 Notes:   
   
 ## VcXsrv Windows X Server  
-Website: https://github.com/marchaesen/vcxsrv  
+Website: https://sourceforge.net/projects/vcxsrv  
 Description: Windows X-Server for interacting with X-Windows environments  
 Author: Marha  
-License: GNU General Public License v3 (https://github.com/marchaesen/vcxsrv/blob/master/COPYING)  
+License: GNU General Public License v3 (https://sourceforge.net/p/vcxsrv/code/ci/master/tree/COPYING)  
 Version: 21.1.13.0  
 Notes:   
   
@@ -1690,7 +1890,7 @@ Description: Encrypted container creation and management
 Author: https://github.com/veracrypt/VeraCrypt/blob/master/doc/html/Authors.html  
 License: Apache License v2 (https://github.com/veracrypt/VeraCrypt/blob/master/License.txt)  
 Version: 1.26.7  
-Notes: Available, but not installed by default  
+Notes:   
   
 ## Virtualbox  
 Website: https://www.virtualbox.org/  
@@ -1698,7 +1898,7 @@ Description: Desktop virtualization software
 Author: Oracle  
 License: https://www.oracle.com/html/terms.html  
 Version: 7.0.10-158379  
-Notes: Available, but not installed by default  
+Notes:   
   
 ## VLC Media Player  
 Website: https://www.videolan.org/  
@@ -1706,7 +1906,7 @@ Description: Media Player
 Author: VideoLAN  
 License: GNU General Public License v2 (https://www.videolan.org/legal.html)  
 Version: 3.0.18  
-Notes: Available, but not installed by default  
+Notes:   
   
 ## Voidtools Everything  
 Website: https://www.voidtools.com  
@@ -1714,7 +1914,7 @@ Description: File Search Utility
 Author: David Carpenter  
 License: https://www.voidtools.com/License.txt  
 Version: 1.4.1.1024  
-Notes:  
+Notes:   
   
 ## Wiebetech Write Blocking Validation Utility  
 Website: https://wiebetech.com  
@@ -1722,7 +1922,15 @@ Description: Write blocker capability testing
 Author: Wiebetech  
 License: Free To Use  
 Version: 2.1.1.0  
-Notes: Available, but not installed by default  
+Notes:   
+  
+## Win-FOR Customizer  
+Website: https://github.com/digitalsleuth/win-for  
+Description: GUI for the installation of Forensics Tools in a Windows Environment  
+Author: Corey Forman (digitalsleuth)  
+License: MIT (https://github.com/digitalsleuth/WIN-FOR/blob/main/LICENSE)  
+Version: 10.0.0  
+Notes:   
   
 ## WindowGrid  
 Website: http://windowgrid.net  
@@ -1738,7 +1946,7 @@ Description: Windows Package Manager
 Author: Microsoft  
 License: MIT License (https://github.com/microsoft/winget-cli/blob/master/LICENSE)  
 Version: 1.7.10861  
-Notes:  
+Notes:   
   
 ## WinMerge  
 Website: https://winmerge.org  
@@ -1746,7 +1954,7 @@ Description: File Differencing Tool
 Author: Dean P. Grimm (Thingamahoocie Software)  
 License: GNU General Public License v2.0 (https://github.com/WinMerge/winmerge/blob/master/LICENSE.md)  
 Version: 2.16.32  
-Notes:  
+Notes:   
   
 ## xsv  
 Website: https://github.com/BurntSushi/xsv  
@@ -1754,7 +1962,7 @@ Description: Command Line CSV manipulator
 Author: Andrew Gallant  
 License: Dual License - MIT or UNLICENSE (https://github.com/BurntSushi/xsv/blob/master/UNLICENSE)  
 Version: 0.13.0  
-Notes:  
+Notes:   
   
 ## YARA  
 Website: https://virustotal.github.io/yara  
@@ -1762,7 +1970,7 @@ Description: Pattern Matching analysis tool
 Author: VirusTotal (https://github.com/VirusTotal/yara/blob/master/AUTHORS)  
 License: BSD 3-Clause (https://github.com/VirusTotal/yara/blob/master/COPYING)  
 Version: 4.3.2-2150  
-Notes:  
+Notes:   
   
 # Windows Analysis  
 Tools to conduct forensic analysis on various Windows artifacts  
@@ -1797,7 +2005,7 @@ Description: Parse Bitmap Cache RDP files
 Author: ANSSI-FR  
 License: CeCILL Free Software License Agreement v2.1 (https://github.com/ANSSI-FR/bmc-tools/blob/master/LICENCE.txt)  
 Version: 3.02  
-Notes:  
+Notes:   
   
 ## Hibernation-Recon  
 Website: https://arsenalrecon.com  
@@ -1805,7 +2013,7 @@ Description: Tool to parse a Windows hibernation file
 Author: Arsenal Recon  
 License: EULA  
 Version: 1.2.2.86  
-Notes: Available, but not installed by default  
+Notes:   
   
 ## Hindsight  
 Website: https://github.com/obsidianforensics/hindsight  
@@ -1813,7 +2021,7 @@ Description: Web-based Chromium Browser artifact parser (Chrome origins)
 Author: Obsidian Forensics  
 License: Apache v2.0 (https://github.com/obsidianforensics/hindsight/blob/master/LICENSE.md)  
 Version: 2023.03  
-Notes:  
+Notes:   
   
 ## Kansa  
 Website: https://github.com/davehull/kansa  
@@ -1822,7 +2030,7 @@ Author: Dave Hull
 License: Apache License v2.0 (https://github.com/davehull/Kansa/blob/master/LICENSE)  
 Version: 18NOV2022 (No defined version)  
 Notes:   
-
+  
 ## kape  
 Website: https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape  
 Description: Incident Response Artifact Parser and Extractor  
@@ -1845,7 +2053,7 @@ Description: Parser for Windows LNK files
 Author: AbdulRhman Alfaifi  
 License: MIT License (https://github.com/AbdulRhmanAlfaifi/lnk_parser/blob/master/LICENSE)  
 Version: 0.2.0  
-Notes:  
+Notes:   
   
 ## LogFileParser  
 Website: https://github.com/jschicht/LogFileParser  
@@ -1861,7 +2069,7 @@ Description: Graphical MFT Browser utility
 Author: Costas K.  
 License: MIT License (https://github.com/kacos2000/MFT_Browser/blob/master/LICENSE)  
 Version: 1.0.72.0  
-Notes:  
+Notes:   
   
 ## Mimikatz  
 Website: https://github.com/gentilkiwi/mimikatz  
@@ -1877,14 +2085,22 @@ Description: Suite of Windows-based analysis tools
 Author: Michal Mutl (mitec)  
 License: Free to use for private, educational and non-commercial purposes  
 Version: Various  
-Notes:  
-
+Notes:   
+  
 ## Nirsoft  
 Website: https://nirsoft.net  
 Description: Suite of various Windows Analysis Tools  
 Author: Nir Sofer  
 License:   
 Version: 1.30.14  
+Notes:   
+  
+## NTCore Tool Suite  
+Website: https://ntcore.com  
+Description: Suite of Windows-based analysis tools  
+Author: Erik Pistelli  
+License:   
+Version: Various  
 Notes:   
   
 ## NTFS Log Tracker  
@@ -1901,7 +2117,15 @@ Description: Command-line and GUI tool for viewing OneDrive folder structure
 Author: Brian Maloney  
 License: MIT License (https://github.com/Beercow/OneDriveExplorer/blob/master/LICENSE)  
 Version: 2023.09.22  
-Notes:  
+Notes:   
+  
+## python-evtx  
+Website: https://github.com/williballenthin/python-evtx  
+Description: Pure Python parser for Windows Event Logs  
+Author: Willi Ballenthin  
+License: Apache License v2.0 (https://github.com/williballenthin/python-evtx/blob/master/LICENSE.TXT)  
+Version: 0.8.0  
+Notes: evtx_dump.py, evtx_dump_json.py, evtx_dump_chunk_slack.py, evtx_eid_record_numbers.py, evtx_extract_record.py, evtx_filter_records.py, evtx_info.py, evtx_record_structure.py, evtx_structure.py, evtx_templates.py  
   
 ## Shadow Explorer  
 Website: https://www.shadowexplorer.com  
@@ -1926,7 +2150,7 @@ Author: Mark Baggett
 License: GNU General Public License v3 (https://github.com/MarkBaggett/srum-dump/blob/master/LICENSE)  
 Version: 2.5  
 Notes:   
-
+  
 ## Sysinternals  
 Website: https://sysinternals.com  
 Description: Suite of Windows Analysis and Management Tools  
@@ -1949,7 +2173,7 @@ Description: Windows Thumbnail Cache parser
 Author: Eric Kutcher  
 License: GNU General Public License v3.0 (identified within program)  
 Version: 1.0.3.9  
-Notes:  
+Notes:   
   
 ## USB Detective  
 Website: https://usbdetective.com  
@@ -1957,7 +2181,7 @@ Description: Windows USB analysis tool
 Author: Jason Hale  
 License: Software License Agreement (https://usbdetective.com/docs/usbdla.pdf)  
 Version: 1.6.4  
-Notes:    
+Notes:   
   
 ## usbdeviceforensics  
 Website: https://github.com/digitalsleuth/usbdeviceforensics  
@@ -1980,7 +2204,15 @@ Website: https://docs.velociraptor.app/
 Description: DFIR live acquisition tool  
 Author: Mike Cohen (scudette)  
 License: GNU Affero General Public License v3 (https://github.com/Velocidex/velociraptor/blob/master/LICENSE)  
-Version: 0.7.0-3  
+Version: 0.7.0  
+Notes:   
+  
+## Volatility Workbench  
+Website: https://www.osforensics.com/tools/volatility-workbench.html  
+Description: Windows-based GUI for the Volatility 3 Framework  
+Author: OSForensics  
+License: Volatility Software License (https://www.volatilityfoundation.org/license/vsl-v1.0)  
+Version: 3.0.1009  
 Notes:   
   
 ## Volatility3  
@@ -1989,15 +2221,7 @@ Description: Memory analysis toolset
 Author: Volatility Foundation  
 License: Volatility Software License (https://www.volatilityfoundation.org/license/vsl-v1.0)  
 Version: 3  
-Notes:  
-  
-## Volatility Workbench  
-Website: https://www.osforensics.com/tools/volatility-workbench.html  
-Description: Windows-based GUI for the Volatility 3 Framework  
-Author: OSForensics  
-License: Volatility Software License (https://www.volatilityfoundation.org/license/vsl-v1.0)  
-Version: 3.0.1009  
-Notes:  
+Notes:   
   
 ## vssmount  
 Website: https://github.com/digitalsleuth/forensics_tools  
@@ -2013,14 +2237,14 @@ Description: Windows Timeline / Activities Cache parser
 Author: Costas K.  
 License: Mozilla Public License v2.0 (https://github.com/kacos2000/WindowsTimeline/blob/master/LICENSE)  
 Version: 2.0.82.0  
-Notes:  
+Notes:   
   
 ## WLEAPP  
 Website: https://github.com/abrignoni/wleapp  
 Description: Windows Logs Events and Properties Parser  
 Author: Alexis Brignoni  
 License: MIT License (https://github.com/abrignoni/WLEAPP/blob/main/LICENSE)  
-Version: Temporarily removed - outdated requirements  
+Version: 0.1  
 Notes:   
   
 ## WMI Parser  
@@ -2037,160 +2261,5 @@ Description: Suite of Forensic Tools
 Author: Eric Zimmerman  
 License: MIT License (https://github.com/EricZimmerman/Issues/blob/master/LICENSE)  
 Version: 2024-10-28  
-Notes:   
-  
-# Requirements  
-Applications required to make everything else work
-
-## .NET 3.5 Framework  
-Website: https://download.visualstudio.microsoft.com/download/pr/b635098a-2d1d-4142-bef6-d237545123cb/2651b87007440a15209cac29634a4e45/dotnetfx35.exe  
-Description: Microsoft .NET 3.5 Framework with .NET 2.0  
-Author: Microsoft  
-License:   
-Version: .NET 3.5 SP1  
-Notes:   
-  
-## .NET 6 Desktop Runtime  
-Website: https://microsoft.com  
-Description: Windows Runtime component  
-Author: Microsoft  
-License: EULA  
-Version: 6.0.7.31422  
-Notes:  
-  
-## 7-Zip  
-Website: https://7-zip.org  
-Description: Zip Compiler and Extractor  
-Author: Igor Pavlov  
-License: GNU LGPL (https://www.7-zip.org/faq.html)  
-Version: 24.06  
-Notes:   
-
-## Adobe Reader DC Classic  
-Website: https://www.adobe.com  
-Description: Adobe PDF Document Reader  
-Author: Adobe  
-License: https://helpx.adobe.com/ca/reader/acrobat-copyright-trademarks-third-party-notices.html  
-Version: 24.002.20759  
-Notes:   
-
-## Elasticsearch  
-Website: https://www.elastic.co  
-Description: Distributed, RESTful, and optimized search engine for applications  
-Author: Elastic  
-License: Server Side Public License / Elastic License 2.0 / Apache License 2.0 (https://github.com/elastic/elasticsearch/blob/main/LICENSE.txt)  
-Version: 8.11.1  
-Notes:  
-  
-## Git for Windows  
-Website: https://github.com/git-for-windows/git  
-Description: Version Control System for Windows  
-Author: Git (git-scm.com)  
-License: GNU Public License and Lesser GNU Public License (https://github.com/git-for-windows/git/blob/main/COPYING, https://github.com/git-for-windows/git/blob/main/LGPL-2.1)  
-Version: 2.38.1  
-Notes:   
-
-## Graphviz  
-Website: https://graphviz.org  
-Description: Open source graph visualization software  
-Author: https://gitlab.com/graphviz/graphviz/-/blob/main/AUTHORS  
-License: Eclipse Public License (https://gitlab.com/graphviz/graphviz/-/blob/main/LICENSE)  
-Version: 9.0.0  
-Notes:  
-  
-## Java Development Kit  
-Website: https://www.java.com  
-Description: Java Engine  
-Author: Oracle  
-License: https://www.oracle.com/legal/terms.html  
-Version: 17.0.9  
-Notes:   
-  
-## Kibana  
-Website: https://www.elastic.co  
-Description: Front end for the Elastic Stack  
-Author: Elastic  
-License: Elastic License 2.0 (https://github.com/elastic/kibana/blob/main/licenses/ELASTIC-LICENSE-2.0.txt)  
-Version: 8.11.1  
-Notes:  
-  
-## Microsoft VC++ 2015 Build Tools  
-Website: https://microsoft.com  
-Description: Microsoft Visual C++ 2015 Build Tools  
-Author: Microsoft  
-License:   
-Version: 15.9.34729.27  
-Notes:   
-  
-## Node.js  
-Website: https://nodejs.org  
-Description: Open-Source JavaScript Runtime Environment  
-Author: https://github.com/nodejs/node/blob/main/README.md#current-project-team-members  
-License: Various (https://github.com/nodejs/node/blob/main/LICENSE)  
-Version: 18.16.0  
-Notes:  
-  
-## nuget  
-Website: https://www.nuget.org/  
-Description: PowerShell Package Manager  
-Author: Microsoft  
-License: Apache v2.0 (https://github.com/NuGet/NuGet.Client/blob/dev/LICENSE.txt)  
-Version: 2.8.5.208 PowerShell / 6.9.1 Standalone  
-Notes:  
-  
-## Portals  
-Website: https://portals-app.com  
-Description: Desktop Organizer  
-Author: Ross Patterson  
-License: Free To Use - Terms and Conditions (https://rosspat.dev/privacy/)  
-Version: 3.2.1.0  
-Notes:  
-  
-## Pycryptodome  
-Website: https://github.com/legrandin/pycryptodome  
-Description: Python package of low-level cryptographic primitives  
-Author: Helder Eijs (Legrandin)  
-License: Public Domain / BSD (https://github.com/Legrandin/pycryptodome/blob/master/LICENSE.rst)  
-Version: 3.16.0  
-Notes:   
-
-## Python 3  
-Website: https://www.python.org  
-Description: Python Programming Language Framework  
-Author: Python Software Foundation  
-License: Python Software Foundation License Version 2.0 (https://docs.python.org/3.10/license.html)  
-Version: 3.10.1150.0  
-Notes:  
-  
-## python-dateutil  
-Website: https://github.com/dateutil/dateutil  
-Description: Python module to use standard datetime features  
-Author: https://github.com/dateutil/dateutil/blob/master/AUTHORS.md  
-License: Apache License v2.0 (https://github.com/dateutil/dateutil/blob/master/LICENSE)  
-Version: 2.8.2  
-Notes:   
-
-## Strawberry Perl  
-Website: https://strawberryperl.com  
-Description: Perl programming language environment for Windows  
-Author: Strawberry Perl  
-License: GNU General Public License 1+ (license found within software)  
-Version: 5.32.1.1  
-Notes:   
-  
-## Visual Studio Community Edition 2022  
-Website: https://visualstudio.microsoft.com  
-Description: Windows IDE for developing in multiple Windows-based programming languages  
-Author: Microsoft  
-License: https://aka.ms/VSLicensingPaper  
-Version: 17.5.4 (2023)  
-Notes: Installation and application are 17.5.4, but environment is 2023  
-  
-## WSL 2 System Update  
-Website: https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi  
-Description: Update for Windows Subsystem for Linux to version 2  
-Author: Microsoft  
-License: EULA  
-Version: 5.10.16  
 Notes:   
   
